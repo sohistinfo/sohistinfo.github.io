@@ -1,7 +1,7 @@
 ---
 layout: home
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: So-Hist-Info
+subtitle: Séminaire - Socio-Histoire de l'Informatique
 ---
 
 # 🖳 About

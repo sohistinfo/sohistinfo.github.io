@@ -53,7 +53,7 @@ The seminar is organized by (in alphabetical order):
 - [Adrien Tournier](https://technique-societe.cnam.fr/adrien-tournier--1455493.kjsp#/)
 
 You can contact us via our email addresses:
-- mathilde.fichen@lecnam.net
-- camille.paloque-berges@lecnam.net
-- adrien.tournier@lecnam.net
+- mathilde.fichen [@] lecnam.net
+- camille.paloque-berges [@] lecnam.net
+- adrien.tournier [@] lecnam.net
 

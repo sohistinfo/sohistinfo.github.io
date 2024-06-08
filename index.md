@@ -52,7 +52,7 @@ Le séminaire est organisé par (ordre alphabétique):
 - [Adrien Tournier](https://technique-societe.cnam.fr/adrien-tournier--1455493.kjsp#/)
 
 Vous pouvez nous contacter sur nos adresses email :
-- mathilde.fichen@lecnam.net
-- camille.paloque-berges@lecnam.net
-- adrien.tournier@lecnam.net
+- mathilde.fichen [@] lecnam.net
+- camille.paloque-berges [@] lecnam.net
+- adrien.tournier [@] lecnam.net
 

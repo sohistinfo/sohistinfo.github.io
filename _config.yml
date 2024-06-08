@@ -21,6 +21,7 @@ author: Some Person
 
 navbar-links:
   En: "english"
+  Fr: "index"
   # Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"

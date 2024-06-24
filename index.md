@@ -21,7 +21,7 @@ Les dates envisagées sont:
 
 # 📍 Localisation 
 
-The seminar is hybrid and will be held at the Conservatoire National des Arts et Métiers, located at **2 rue Conté, 75003 Paris**, en salle **30-1-18**. Un lien de connection sera communiqué sur cette page avant l'évènement. 
+The seminar se tiendrq en hybride au Conservatoire National des Arts et Métiers, au **2 rue Conté, 75003 Paris**, en salle **30-1-18**. Un lien de connection sera communiqué sur cette page avant l'évènement. 
 
 # 💭 Approche
 

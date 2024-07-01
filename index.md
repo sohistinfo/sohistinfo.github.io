@@ -21,7 +21,7 @@ Les dates envisagées sont:
 
 # 📍 Localisation 
 
-Le seminaire se tiendra en hybride au Conservatoire National des Arts et Métiers, au **2 rue Conté, 75003 Paris**, en salle **30-1-18**. Un lien de connexion sera communiqué sur cette page avant l'évènement. 
+Le seminaire se tiendra en hybride au Conservatoire National des Arts et Métiers, au **2 rue Conté, 75003 Paris**, en salle **30-1-18** (bâtiment 30, 1er sous-sol, salle 18). Un lien de connexion sera communiqué sur cette page avant l'évènement. 
 
 # 💭 Approche
 

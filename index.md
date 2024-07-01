@@ -6,7 +6,7 @@ subtitle: Séminaire - Socio-Histoire de l'Informatique
 
 # 🖳 A propos
 
-Le **Séminaire de socio-histoire de l'informatique** est un séminaire de recherche organisé par le centre de recherche [HT2S du Conservatoire National des Arts et Métiers](https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp). Tous les deux mois, nous invitons un chercheur en histoire et/ou anthropologie et sociologie (avec une perspective historique ou diachonique) de l’informatique à présenter ses travaux. Vous trouverez ci-dessous une vue plus détaillée de notre approche.
+Le **Séminaire de socio-histoire de l'informatique** est un séminaire de recherche organisé par le centre de recherche [HT2S du Conservatoire National des Arts et Métiers](https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp). Tous les deux mois, nous invitons un chercheur en histoire et/ou anthropologie et sociologie (avec une perspective historique ou diachonique) de l’informatique à présenter ses travaux. Le séminaire a pour objectif d’explorer de nouveaux récits de l’histoire de l’informatique sur le temps long, en mettant l’accent sur la manière dont l’informatique s’entrelace avec les questions sociales, économiques, politiques et culturelles. Vous trouverez ci-dessous une vue plus détaillée de notre approche.
 
 # 📅 Prochaines dates
 

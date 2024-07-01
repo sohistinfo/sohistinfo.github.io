@@ -6,7 +6,7 @@ subtitle: Seminar - Socio-History of Informatics
 
 # 🖳 About
 
-The **Computing Socio-History Seminar** is a research seminar organized by the [HT2S research center](https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp) of the Conservatoire National des Arts et Métiers. Every two months, we invite a researcher in the history and/or sociology of computing to present their work. The seminar aims to explore new narratives of computing history over extended periods of time, with an emphasis on how computer science intersects with social, economic, political, and cultural matters. Below, you will find a more detailed view of our approach.
+The **Computing Socio-History Seminar** is a research seminar organized by the [HT2S research center](https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp) of the Conservatoire National des Arts et Métiers. Every two months, we invite a researcher in the history and/or anthropology and sociology (with a historical or diachronic approach) of computing and informatics to present their work. Below, you will find a more detailed view of our approach.
 
 # 📅 Next dates
 

@@ -15,11 +15,12 @@ Below is a more detailed view of our approach.
 
 The seminar will start at the start of the 2024 school year and the speakers will be announced soon. The dates envisaged are:
 
-- October 14, 2024, from 3 PM to 5 PM
-- December 16, 2024, from 3 PM to 5 PM
-- February 10, 2025, from 3 PM to 5 PM
-- April 14, 2025, from 3 PM to 5 PM
-- June 16, 2025, from 3 PM to 5 PM
+- October 14, 2024, from 3 PM to 5 PM - [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/)
+- December 16, 2024, from 3 PM to 5 PM - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof)
+- February 10, 2025, from 3 PM to 5 PM - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp)
+- Early 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr)
+- April 14, 2025, from 3 PM to 5 PM - [Jaroslav Švelch](http://svelch.com/cv/)
+- June 16, 2025, from 3 PM to 5 PM - [Michael Homberg](https://wigh.wcfia.harvard.edu/people/michael-homberg)
 
 # 📍 Location 
 

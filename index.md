@@ -10,14 +10,14 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 # 📅 Prochaines dates
 
-Le séminaire démarrera à la rentrée 2024 et les intervenants seront annoncés prochainements.
-Les dates envisagées sont:
+Le séminaire démarrera à la rentrée 2024. Les invités programmés sont les suivants :
 
-- 14 Octobre 2024 de 15h à 17h
-- 16 Décembre 2024 de 15h à 17h
-- 10 Février 2025 de 15h à 17h
-- 14 Avril 2025 de 15h à 17h
-- 16 Juin 2025 de 15h à 17h
+- 14 Octobre 2024 de 15h à 17h - [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/)
+- 16 Décembre 2024 de 15h à 17h - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof)
+- 10 Février 2025 de 15h à 17h - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp)
+- Début 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr)
+- 14 Avril 2025 de 15h à 17h - [Jaroslav Švelch](http://svelch.com/cv/)
+- Juin 2025 de 15h à 17h - [Michael Homberg](https://wigh.wcfia.harvard.edu/people/michael-homberg)
 
 # 📍 Localisation 
 

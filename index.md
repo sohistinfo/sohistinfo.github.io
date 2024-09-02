@@ -12,7 +12,10 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 Le séminaire démarrera à la rentrée 2024. Les invités programmés sont les suivants et un descriptif plus précis sera fourni en amont de la séance :
 
-- 14 Octobre 2024 de 15h à 17h - [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/)
+- 14 Octobre 2024 de 15h à 17h - [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/) - **Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe dans le contexte comparatif**
+
+> Dans le cadre du projet ANR CulturIA, cette enquête porte sur l'histoire contemporaine de l'intelligence artificielle et ses aspects socio-culturels, notamment dans le monde russophone et ses rapports à l'international. Marqué par la guerre contre l'Ukraine et les sanctions économiques, le domaine a connu une restructuration à la fois au niveau des infrastructures mais aussi au niveau des discours et représentations. L'enquête collective menée en collaboration avec Boris Melnichenko suit les russes qui créent ou utilisent les IA en exile mais aussi les ingéneurs qui travaillent pour les grandes entreprises en Russie. Dans l'esprit des STS, elle reste attentive au code et aux infrastructures et décrit les restructurations importantes des projets technologiques dans le contexte de crise géopolitique majeure. En mettant les projets en ML et IA russes dans une perspective comparative, notamment, avec les projets comparables issus des Etats-Unis et de la Chine, cette recherche se pose la question : peut-on parler d'une "IA à la russe" ? Existent-il des traits caractéristiques pouvant définir les façons de faire et de parler de l'IA propres à la Russie, malgré les emprunts, influences et circulations transnationales inévitables qui marquent ce domaine ?
+
 - 16 Décembre 2024 de 15h à 17h - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof)
 - 10 Février 2025 de 15h à 17h - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp)
 - Début 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr)

@@ -6,7 +6,7 @@ subtitle: Séminaire - Socio-Histoire de l'Informatique
 
 # 🖳 A propos
 
-Le **Séminaire de socio-histoire de l'informatique** est un séminaire de recherche organisé par le centre de recherche [HT2S du Conservatoire National des Arts et Métiers](https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp). Tous les deux mois, nous invitons un chercheur en histoire et/ou anthropologie et sociologie (avec une perspective historique ou diachonique) de l’informatique à présenter ses travaux. Le séminaire a pour objectif d’explorer de nouveaux récits de l’histoire de l’informatique sur le temps long, en mettant l’accent sur la manière dont l’informatique s’entrelace avec les questions sociales, économiques, politiques et culturelles. Vous trouverez ci-dessous une vue plus détaillée de notre approche.
+Le **Séminaire de socio-histoire de l'informatique** est un séminaire de recherche organisé par le centre de recherche [HT2S du Conservatoire National des Arts et Métiers](https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp). Tous les deux mois, nous invitons un chercheur en histoire et/ou anthropologie et sociologie (avec une perspective historique ou diachronique) de l’informatique à présenter ses travaux. Le séminaire a pour objectif d’explorer de nouveaux récits de l’histoire de l’informatique sur le temps long, en mettant l’accent sur la manière dont l’informatique s’entrelace avec les questions sociales, économiques, politiques et culturelles. Vous trouverez ci-dessous une vue plus détaillée de notre approche.
 
 # 📅 Prochaines dates
 
@@ -18,9 +18,9 @@ Le séminaire démarrera à la rentrée 2024. Les invités programmés sont les 
 
 - 16 Décembre 2024 de 15h à 17h - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof)
 - 10 Février 2025 de 15h à 17h - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp)
-- Début 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr)
+- 1er avril 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr)
 - 14 Avril 2025 de 15h à 17h - [Jaroslav Švelch](http://svelch.com/cv/)
-- Juin 2025 de 15h à 17h - [Michael Homberg](https://wigh.wcfia.harvard.edu/people/michael-homberg)
+- 16 Juin 2025 de 15h à 17h - [Michael Homberg](https://wigh.wcfia.harvard.edu/people/michael-homberg)
 
 # 📍 Localisation 
 

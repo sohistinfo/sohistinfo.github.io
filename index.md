@@ -12,15 +12,15 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 Le séminaire démarrera à la rentrée 2024. Les invités programmés sont les suivants et un descriptif plus précis sera fourni en amont de la séance :
 
-- 14 Octobre 2024 de 15h à 17h - [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/) - **Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative**
+- 14 Octobre 2024 de 15h à 17h - [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/) - Centre Internet et Société, CNRS - **Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative**
 
 > Dans le cadre du projet ANR CulturIA, cette enquête porte sur l'histoire contemporaine de l'intelligence artificielle et ses aspects socio-culturels, notamment dans le monde russophone et ses rapports à l'international. Marqué par la guerre contre l'Ukraine et les sanctions économiques, le domaine a connu une restructuration à la fois au niveau des infrastructures mais aussi au niveau des discours et représentations. L'enquête collective menée en collaboration avec Boris Melnichenko suit les russes qui créent ou utilisent les IA en exil mais aussi les ingénieurs qui travaillent pour les grandes entreprises en Russie. Dans l'esprit des STS, elle reste attentive au code et aux infrastructures et décrit les restructurations importantes des projets technologiques dans le contexte de crise géopolitique majeure. Comparant les projets en machine-learning et IA russes avec, notamment, des projets similaires issus des Etats-Unis et de la Chine, cette recherche se pose la question : peut-on parler d'une "IA à la russe" ? Existe-il des traits caractéristiques pouvant définir les façons de faire et de parler de l'IA propres à la Russie, malgré les emprunts, influences et circulations transnationales inévitables qui marquent ce domaine ?
 
-- 16 Décembre 2024 de 15h à 17h - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof)
-- 10 Février 2025 de 15h à 17h - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp)
-- 1er Avril 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr)
-- 14 Avril 2025 de 15h à 17h - [Jaroslav Švelch](http://svelch.com/cv/)
-- 16 Juin 2025 de 15h à 17h - [Michael Homberg](https://wigh.wcfia.harvard.edu/people/michael-homberg)
+- 16 Décembre 2024 de 15h à 17h - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof) - University of Lausanne
+- 10 Février 2025 de 15h à 17h - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S
+- 1er Avril 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - CNRS-Paris 7 Denis Diderot, SPHERE
+- 14 Avril 2025 de 15h à 17h - [Jaroslav Švelch](http://svelch.com/cv/) - Charles University (Prague)
+- 16 Juin 2025 de 15h à 17h - [Michael Homberg](https://wigh.wcfia.harvard.edu/people/michael-homberg) - University of Cologne
 
 # 📍 Localisation 
 

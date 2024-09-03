@@ -21,7 +21,7 @@ The seminar will start at the start of the 2024 school year and the speakers wil
 
 - December 16, 2024, from 3 PM to 5 PM - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof) - University of Lausanne (Switzerland)
 - February 10, 2025, from 3 PM to 5 PM - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S (France)
-- April 1st 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - CNRS-Paris 7 Denis Diderot, SPHERE (France)
+- April 1st 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - CNRS-Paris 7, SPHERE (France)
 - April 14, 2025, from 3 PM to 5 PM - [Jaroslav Švelch](http://svelch.com/cv/) - Charles University (Czech Republic)
 - June 16, 2025, from 3 PM to 5 PM - [Michael Homberg](https://wigh.wcfia.harvard.edu/people/michael-homberg) - University of Cologne (Germany)
 

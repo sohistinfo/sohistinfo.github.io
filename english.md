@@ -15,12 +15,15 @@ Below is a more detailed view of our approach.
 
 The seminar will start at the start of the 2024 school year and the speakers will be announced soon. The dates envisaged are:
 
-- October 14, 2024, from 3 PM to 5 PM - [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/)
-- December 16, 2024, from 3 PM to 5 PM - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof)
-- February 10, 2025, from 3 PM to 5 PM - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp)
-- Early 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr)
-- April 14, 2025, from 3 PM to 5 PM - [Jaroslav Švelch](http://svelch.com/cv/)
-- June 16, 2025, from 3 PM to 5 PM - [Michael Homberg](https://wigh.wcfia.harvard.edu/people/michael-homberg)
+- October 14, 2024, from 3 PM to 5 PM - [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/) - CNRS, Centre Internet et Société (France) - A "Sovereign Intelligence"? Infrastructures, Representations, and Geopolitics of Russian AI: A Comparative Approach
+
+> As part of the ANR CulturIA project, this investigation focuses on the contemporary history of artificial intelligence and its socio-cultural aspects, particularly within the Russian-speaking world and its international relations. Marked by the war against Ukraine and economic sanctions, the field has undergone a restructuring both in terms of infrastructure and in terms of discourse and representations. The collective research, conducted in collaboration with Boris Melnichenko, follows Russians who create or use AI in exile as well as engineers working for large companies in Russia. In line with the spirit of Science and Technology Studies (STS), it remains attentive to code and infrastructure and describes the significant restructurings of technological projects in the context of a major geopolitical crisis. By comparing Russian machine learning and AI projects with similar initiatives from the United States and China, this research asks: can we speak of a "Russian AI"? Are there distinctive characteristics that define the ways of developing and discussing AI specific to Russia, despite the inevitable borrowing, influences, and transnational exchanges that shape this field?
+
+- December 16, 2024, from 3 PM to 5 PM - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof) - University of Lausanne (Switzerland)
+- February 10, 2025, from 3 PM to 5 PM - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S (France)
+- April 1st 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - CNRS-Paris 7 Denis Diderot, SPHERE (France)
+- April 14, 2025, from 3 PM to 5 PM - [Jaroslav Švelch](http://svelch.com/cv/) - Charles University (Czech Republic)
+- June 16, 2025, from 3 PM to 5 PM - [Michael Homberg](https://wigh.wcfia.harvard.edu/people/michael-homberg) - University of Cologne (Allemagne)
 
 # 📍 Location 
 

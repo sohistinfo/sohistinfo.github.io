@@ -18,7 +18,7 @@ Le séminaire démarrera à la rentrée 2024. Les invités programmés sont les 
 
 - 16 Décembre 2024 de 15h à 17h - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof)
 - 10 Février 2025 de 15h à 17h - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp)
-- 1er avril 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr)
+- 1er Avril 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr)
 - 14 Avril 2025 de 15h à 17h - [Jaroslav Švelch](http://svelch.com/cv/)
 - 16 Juin 2025 de 15h à 17h - [Michael Homberg](https://wigh.wcfia.harvard.edu/people/michael-homberg)
 

@@ -22,7 +22,7 @@ Le séminaire démarrera à la rentrée 2024. Les invités programmés sont les 
 - 14 Avril 2025 de 15h à 17h - [Jaroslav Švelch](http://svelch.com/cv/) - Charles University (République Tchèque)
 - 16 Juin 2025 de 15h à 17h - [Michael Homberg](https://wigh.wcfia.harvard.edu/people/michael-homberg) - University of Cologne (Allemagne)
 
-# 📍 Localisation 
+# 📍 Informations pratiques et inscription
 
 Pour assister au séminaire, veuillez vous **[inscrire ici](https://framaforms.org/inscription-seminaire-de-socio-histoire-de-linformatique-1725366317)**. 
 

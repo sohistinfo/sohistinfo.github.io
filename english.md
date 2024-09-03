@@ -25,11 +25,11 @@ The seminar will start at the start of the 2024 school year and the speakers wil
 - April 14, 2025, from 3 PM to 5 PM - [Jaroslav Švelch](http://svelch.com/cv/) - Charles University (Czech Republic)
 - June 16, 2025, from 3 PM to 5 PM - [Michael Homberg](https://wigh.wcfia.harvard.edu/people/michael-homberg) - University of Cologne (Germany)
 
-# 📍 Location 
+# 📍 Practical Information and Registration
 
-The seminar will be held in hybrid at the Conservatoire National des Arts et Métiers, at **2 rue Conté, 75003 Paris**, in room 30-1-18 (building number 30, first basement, room 18).
+To attend the seminar, please **[register here](https://framaforms.org/inscription-seminaire-de-socio-histoire-de-linformatique-1725366317)**.
 
-A connection link will be communicated on this page before the event.
+The seminar will be held in hybrid at the Conservatoire National des Arts et Métiers, at **2 rue Conté, 75003 Paris**, in room 30-1-18 (building number 30, first basement, room 18). A connexion link wil be sent by email prior to the event to registered remote participants. 
 
 
 # 💭 Our approach

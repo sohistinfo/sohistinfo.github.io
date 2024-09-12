@@ -8,7 +8,7 @@ subtitle: Séminaire - Socio-Histoire de l'Informatique
 
 Le **Séminaire de socio-histoire de l'informatique** est un séminaire de recherche organisé par le centre de recherche [HT2S du Conservatoire National des Arts et Métiers](https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp). Tous les deux mois, nous invitons un.e chercheur.se en histoire et/ou anthropologie et sociologie (avec une perspective historique ou diachronique) de l’informatique à présenter ses travaux. Le séminaire a pour objectif d’explorer de nouveaux récits de l’histoire de l’informatique sur le temps long, en mettant l’accent sur la manière dont l’informatique s’entrelace avec les questions sociales, économiques, politiques et culturelles. Vous trouverez ci-dessous une vue plus détaillée de notre approche.
 
-# 📅 Prochaines dates
+# 📅 Programme
 
 #### 14 Octobre 2024 de 15h à 17h
 _Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative_
@@ -18,7 +18,7 @@ _Une "Intelligence souveraine" ? Infrastructures, représentations et géopoliti
 > Dans le cadre du projet ANR CulturIA, cette enquête porte sur l'histoire contemporaine de l'intelligence artificielle et ses aspects socio-culturels, notamment dans le monde russophone et ses rapports à l'international. Marqué par la guerre contre l'Ukraine et les sanctions économiques, le domaine a connu une restructuration à la fois au niveau des infrastructures mais aussi au niveau des discours et représentations. L'enquête collective menée en collaboration avec Boris Melnichenko suit les russes qui créent ou utilisent les IA en exil mais aussi les ingénieurs qui travaillent pour les grandes entreprises en Russie. Dans l'esprit des STS, elle reste attentive au code et aux infrastructures et décrit les restructurations importantes des projets technologiques dans le contexte de crise géopolitique majeure. Comparant les projets en machine-learning et IA russes avec, notamment, des projets similaires issus des Etats-Unis et de la Chine, cette recherche se pose la question : peut-on parler d'une "IA à la russe" ? Existe-il des traits caractéristiques pouvant définir les façons de faire et de parler de l'IA propres à la Russie, malgré les emprunts, influences et circulations transnationales inévitables qui marquent ce domaine ?
 
 
-#### Evènements à venir
+#### Dates à venir
 
 - 16 Décembre 2024 de 15h à 17h - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof) - University of Lausanne (Suisse)
 - 10 Février 2025 de 15h à 17h - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S

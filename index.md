@@ -10,8 +10,8 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 # 📅 Prochaines dates
 
-#### Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative
-- _14 Octobre 2024 de 15h à 17h_
+#### 14 Octobre 2024 de 15h à 17h
+- **Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative **
 - [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/) et [Boris Melnichenko](https://cis.cnrs.fr/en/boris_melnichenko/) - Centre Internet et Société, CNRS
 - Discutant : [Benjamin Bürbaumer](https://www.centreemiledurkheim.fr/notre-equipe/benjamin-burbaumer/) - Sciences Po Bordeaux
 

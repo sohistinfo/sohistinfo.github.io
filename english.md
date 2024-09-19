@@ -20,9 +20,16 @@ _A "Sovereign Intelligence"? Infrastructures, Representations, and Geopolitics o
 
 > As part of the ANR CulturIA project, this investigation focuses on the contemporary history of artificial intelligence and its socio-cultural aspects, particularly within the Russian-speaking world and its international relations. Marked by the war against Ukraine and economic sanctions, the field has undergone a restructuring both in terms of infrastructure and in terms of discourse and representations. The collective research, conducted in collaboration with Boris Melnichenko, follows Russians who create or use AI in exile as well as engineers working for large companies in Russia. In line with the spirit of Science and Technology Studies (STS), it remains attentive to code and infrastructure and describes the significant restructurings of technological projects in the context of a major geopolitical crisis. By comparing Russian machine learning and AI projects with similar initiatives from the United States and China, this research asks: can we speak of a "Russian AI"? Are there distinctive characteristics that define the ways of developing and discussing AI specific to Russia, despite the inevitable borrowing, influences, and transnational exchanges that shape this field?
 
+#### December 16, 2024, from 3 PM to 5 PM - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof) - University of Lausanne (Switzerland)
+_The present is boring, but the future is bright?! A transnational history of the introduction of computers in education since the 1960s_
+- [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof) - University of Lausanne (Suisse)
+
+> The arrival of new technologies in education has always been shaped by contradictory visions. On the one hand, technologies stoked fears of a loss of competence and the restriction of learners through behaviorist teaching systems; on the other hand, technologies were praised as a means of acquiring skills more quickly through greater individuality. The turbulent history of the slow introduction of computers in schools since the 1960s clearly demonstrates this.
+As a contribution to the research seminar, this talk will address how the use of computers in education has been repeatedly touted as a breakthrough and reformer of education systems in many countries, while there has always been a mismatch between imaginaries and reality. Of particular interest are the economic and political conditions surrounding this development, as well as some of the key transnational and local actors, and the intermediaries connecting them.
+Examining expectations of educational technologies helps to uncover some of the underlying assumptions that drive innovation. The talk is based on the author’s contribution to a forthcoming book chapter that will add a historical perspective to the growing critical literature questioning the futurism inherent in digital educational media.
+
 #### Upcoming dates
 
-- December 16, 2024, from 3 PM to 5 PM - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof) - University of Lausanne (Switzerland)
 - February 10, 2025, from 3 PM to 5 PM - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S (France)
 - April 1st 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - CNRS-Paris 7, SPHERE (France)
 - April 14, 2025, from 3 PM to 5 PM - [Jaroslav Švelch](http://svelch.com/cv/) - Charles University (Czech Republic)

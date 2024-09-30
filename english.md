@@ -23,7 +23,7 @@ _A "Sovereign Intelligence"? Infrastructures, Representations, and Geopolitics o
 #### December 16, 2024, from 3 PM to 5 PM 
 _The present is boring, but the future is bright?! A transnational history of the introduction of computers in education since the 1960s_
 - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof) - University of Lausanne (Switzerland)
-- Discussant: [Ronan Le Roux](https://inspe.u-pec.fr/recherche-et-innovation/recherche-et-internationalisation/chercheurs/annuaire-des-enseignants-chercheurs/lis/le-roux-ronan) - Université Paris-Est Créteil, INSPE (France)
+- Discussant: [Ronan Le Roux](https://lis.u-pec.fr/membres/membres-titulaires/le-roux-ronan) - Université Paris-Est Créteil, INSPE (France)
 
 > The arrival of new technologies in education has always been shaped by contradictory visions. On the one hand, technologies stoked fears of a loss of competence and the restriction of learners through behaviorist teaching systems; on the other hand, technologies were praised as a means of acquiring skills more quickly through greater individuality. The turbulent history of the slow introduction of computers in schools since the 1960s clearly demonstrates this.
 As a contribution to the research seminar, this talk will address how the use of computers in education has been repeatedly touted as a breakthrough and reformer of education systems in many countries, while there has always been a mismatch between imaginaries and reality. Of particular interest are the economic and political conditions surrounding this development, as well as some of the key transnational and local actors, and the intermediaries connecting them.

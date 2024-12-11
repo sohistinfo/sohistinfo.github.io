@@ -24,7 +24,7 @@ Examining expectations of educational technologies helps to uncover some of the 
 
 #### Upcoming dates
 
-- January 27, from 3 PM to 5 PM - [Théo Lepage-Richer](https://www.utm.utoronto.ca/iccit/people/theo-lepage-richer), University of Toronto (Canada) et [Ranjodh Singh Dhaliwal](https://ranjodhdhaliwal.com/), University of Notre Dame du Lac (Indiana, USA)
+- January 27, from 3 PM to 5 PM - [Théo Lepage-Richer](https://www.utm.utoronto.ca/iccit/people/theo-lepage-richer), University of Toronto (Canada) and [Ranjodh Singh Dhaliwal](https://ranjodhdhaliwal.com/), University of Notre Dame du Lac (Indiana, USA)
 - February 10, 2025, from 3 PM to 5 PM - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S (France)
 - April 1st 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - CNRS-Paris 7, SPHERE (France)
 - April 14, 2025, from 3 PM to 5 PM - [Jaroslav Švelch](http://svelch.com/cv/) - Charles University (Czech Republic)

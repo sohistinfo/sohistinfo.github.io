@@ -10,14 +10,12 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 # 📅 Programme
 
-#### 16 Décembre 2024 de 15h à 17h
-_The present is boring, but the future is bright?! A transnational history of the introduction of computers in education since the 1960s_
-- [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof) - University of Lausanne (Suisse)
-- Discutant : [Ronan Le Roux](https://lis.u-pec.fr/membres/membres-titulaires/le-roux-ronan) - Université Paris-Est Créteil, INSPE
+#### 27 janvier 2024 de 15h à 17h
+_Les réseaux de neurones : 100 ans de neurophysiologie technologisée_
+- [Théo Lepage-Richer](https://www.utm.utoronto.ca/iccit/people/theo-lepage-richer), Université de Toronto (Canada) et [Ranjodh Singh Dhaliwal](https://ranjodhdhaliwal.com/), Université de Basel (Suisse)
+- Discutant: [Valentin Goujon](https://medialab.sciencespo.fr/equipe/valentin-goujon/) - médialab Sciences Po 
 
-> The arrival of new technologies in education has always been shaped by contradictory visions. On the one hand, technologies stoked fears of a loss of competence and the restriction of learners through behaviorist teaching systems; on the other hand, technologies were praised as a means of acquiring skills more quickly through greater individuality. The turbulent history of the slow introduction of computers in schools since the 1960s clearly demonstrates this.
-As a contribution to the research seminar, this talk will address how the use of computers in education has been repeatedly touted as a breakthrough and reformer of education systems in many countries, while there has always been a mismatch between imaginaries and reality. Of particular interest are the economic and political conditions surrounding this development, as well as some of the key transnational and local actors, and the intermediaries connecting them.
-Examining expectations of educational technologies helps to uncover some of the underlying assumptions that drive innovation. The talk is based on the author’s contribution to a forthcoming book chapter that will add a historical perspective to the growing critical literature questioning the futurism inherent in digital educational media.
+> Bien qu’actuellement connus comme une approche statistique à l’intelligence artificielle inspirée par la biologie, les réseaux de neurones ont tout d’abord été introduits comme un modèle neuroanatomique, puis psychiatrique, visant à expliquer la différence raciale et pathologique. Matérialisés à travers des pratiques aussi variées que la coloration argentique et les politiques sanitaires coloniales, les interventions psychochirurgicales et l’électrothérapie, et finalement la simulation de neurones artificiels, les réseaux de neurones ont été expérimentalement inscrits sur certains corps afin d’établir qui—ou quoi—se qualifie comme un sujet intelligent. Dans cette présentation, Ranjodh Singh Dhaliwal et Théo Lepage-Richer revisitent cinq moments clés de l’histoire de ce modèle pour reconstruire certaines des pratiques situées, des histoires sociales, des techniques de médiation et des présupposés ontologiques qui ont influencé la transformation récente des réseaux de neurones en modèle d’apprentissage automatique. Loin de signaler la convergence de l’intelligence humaine et de l’intelligence machine, les réseaux de neurones mettent en évidence la technologisation de la neurophysiologie qui caractérise la recherche dans les champs de la neuroscience et de l’intelligence artificielle depuis plus d’un siècle. En prenant la proximité historique entre ces disciplines comme point de départ, cette présentation relate la façon dont la cognition en est venue à être conçue comme essentiellement computationnelle par nature, au point de soutenir une vision technologisée de la biologie, de la psychologie et de la sociabilité humaines.
 
 #### Dates à venir
 
@@ -28,6 +26,15 @@ Examining expectations of educational technologies helps to uncover some of the 
 - 16 Juin 2025 de 15h à 17h - [Michael Homberg](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/michael-homberg) - Centre for Contemporary History (ZZF) Potsdam (Allemagne)
 
 # Dates passées
+
+#### 16 Décembre 2024 de 15h à 17h
+_The present is boring, but the future is bright?! A transnational history of the introduction of computers in education since the 1960s_
+- [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof) - University of Lausanne (Suisse)
+- Discutant : [Ronan Le Roux](https://lis.u-pec.fr/membres/membres-titulaires/le-roux-ronan) - Université Paris-Est Créteil, INSPE
+
+> The arrival of new technologies in education has always been shaped by contradictory visions. On the one hand, technologies stoked fears of a loss of competence and the restriction of learners through behaviorist teaching systems; on the other hand, technologies were praised as a means of acquiring skills more quickly through greater individuality. The turbulent history of the slow introduction of computers in schools since the 1960s clearly demonstrates this.
+As a contribution to the research seminar, this talk will address how the use of computers in education has been repeatedly touted as a breakthrough and reformer of education systems in many countries, while there has always been a mismatch between imaginaries and reality. Of particular interest are the economic and political conditions surrounding this development, as well as some of the key transnational and local actors, and the intermediaries connecting them.
+Examining expectations of educational technologies helps to uncover some of the underlying assumptions that drive innovation. The talk is based on the author’s contribution to a forthcoming book chapter that will add a historical perspective to the growing critical literature questioning the futurism inherent in digital educational media.
 
 #### 14 Octobre 2024 de 15h à 17h
 _Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative_

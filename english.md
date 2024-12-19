@@ -13,6 +13,23 @@ Below is a more detailed view of our approach.
 
 # 📅 Program
 
+#### January 27, 2024, from 3 PM to 5 PM 
+
+_Neural Networks: A 100 Years of Technologized Neurophysiology_
+- [Théo Lepage-Richer](https://www.utm.utoronto.ca/iccit/people/theo-lepage-richer), University of Toronto (Canada) and [Ranjodh Singh Dhaliwal](https://ranjodhdhaliwal.com/), University of Basel (Switzerland)
+- Discussant: [Valentin Goujon](https://medialab.sciencespo.fr/equipe/valentin-goujon/) - Sciences Po medialab (France)
+
+> While currently known as a biologically inspired, statistical approach to artificial intelligence, neural networks were first introduced as a neuroanatomical and, later, psychiatric approach to racial and pathological difference. Materialized through practices as varied as silver staining and colonial health policies, brain lacerations and electroshock therapy, and ultimately the software implementation of simulated neurons, neural networks were directly inscribed onto certain bodies to produce a recognition of who—or what—qualifies as an intelligent subject and who doesn’t. In this talk, Ranjodh Singh Dhaliwal and Théo Lepage-Richer revisit five key moments in that model’s history to reconstruct some of the situated practices, social histories, mediating techniques, and ontological assumptions that informed the machine learning model known as neural networks. Far from signaling the ultimate convergence of human and machine intelligence, neural networks highlight the technologization of neurophysiology that characterizes virtually all strands of neuroscientific and AI research of the past century. Taking this traffic as its starting point, this talk explores how cognition came to be constructed as essentially computational in nature, to the point of underwriting a technologized view of human biology, psychology, and sociability. 
+
+#### Upcoming dates
+
+- February 10, 2025, from 3 PM to 5 PM - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S (France)
+- April 1st 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - CNRS-Paris 7, SPHERE (France)
+- April 14, 2025, from 3 PM to 5 PM - [Jaroslav Švelch](http://svelch.com/cv/) - Charles University (Czech Republic)
+- June 16, 2025, from 3 PM to 5 PM - [Michael Homberg](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/michael-homberg) - Centre for Contemporary History (ZZF) Potsdam (Germany)
+
+# Past dates
+
 #### December 16, 2024, from 3 PM to 5 PM 
 _The present is boring, but the future is bright?! A transnational history of the introduction of computers in education since the 1960s_
 - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof) - University of Lausanne (Switzerland)
@@ -21,16 +38,6 @@ _The present is boring, but the future is bright?! A transnational history of th
 > The arrival of new technologies in education has always been shaped by contradictory visions. On the one hand, technologies stoked fears of a loss of competence and the restriction of learners through behaviorist teaching systems; on the other hand, technologies were praised as a means of acquiring skills more quickly through greater individuality. The turbulent history of the slow introduction of computers in schools since the 1960s clearly demonstrates this.
 As a contribution to the research seminar, this talk will address how the use of computers in education has been repeatedly touted as a breakthrough and reformer of education systems in many countries, while there has always been a mismatch between imaginaries and reality. Of particular interest are the economic and political conditions surrounding this development, as well as some of the key transnational and local actors, and the intermediaries connecting them.
 Examining expectations of educational technologies helps to uncover some of the underlying assumptions that drive innovation. The talk is based on the author’s contribution to a forthcoming book chapter that will add a historical perspective to the growing critical literature questioning the futurism inherent in digital educational media.
-
-#### Upcoming dates
-
-- January 27, from 3 PM to 5 PM - [Théo Lepage-Richer](https://www.utm.utoronto.ca/iccit/people/theo-lepage-richer), University of Toronto (Canada) and [Ranjodh Singh Dhaliwal](https://ranjodhdhaliwal.com/), University of Basel (Switzerland)
-- February 10, 2025, from 3 PM to 5 PM - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S (France)
-- April 1st 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - CNRS-Paris 7, SPHERE (France)
-- April 14, 2025, from 3 PM to 5 PM - [Jaroslav Švelch](http://svelch.com/cv/) - Charles University (Czech Republic)
-- June 16, 2025, from 3 PM to 5 PM - [Michael Homberg](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/michael-homberg) - Centre for Contemporary History (ZZF) Potsdam (Germany)
-
-# Past dates
 
 #### October 14, 2024, from 3 PM to 5 PM
 _A "Sovereign Intelligence"? Infrastructures, Representations, and Geopolitics of Russian AI: A Comparative Approach_

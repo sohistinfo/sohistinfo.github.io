@@ -15,7 +15,7 @@ Below is a more detailed view of our approach.
 
 #### January 27, 2024, from 3 PM to 5 PM 
 
-_Neural Networks: A 100 Years of Technologized Neurophysiology_
+**Neural Networks: A 100 Years of Technologized Neurophysiology**
 - [Théo Lepage-Richer](https://www.utm.utoronto.ca/iccit/people/theo-lepage-richer), University of Toronto (Canada) and [Ranjodh Singh Dhaliwal](https://ranjodhdhaliwal.com/), University of Basel (Switzerland)
 - Discussant: [Valentin Goujon](https://medialab.sciencespo.fr/equipe/valentin-goujon/) - Sciences Po medialab (France)
 

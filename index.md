@@ -11,7 +11,7 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 # 📅 Programme
 
 #### 27 janvier 2024 de 15h à 17h
-_Les réseaux de neurones : 100 ans de neurophysiologie technologisée_
+**Les réseaux de neurones : 100 ans de neurophysiologie technologisée**
 - [Théo Lepage-Richer](https://www.utm.utoronto.ca/iccit/people/theo-lepage-richer), Université de Toronto (Canada) et [Ranjodh Singh Dhaliwal](https://ranjodhdhaliwal.com/), Université de Basel (Suisse)
 - Discutant: [Valentin Goujon](https://medialab.sciencespo.fr/equipe/valentin-goujon/) - médialab Sciences Po 
 

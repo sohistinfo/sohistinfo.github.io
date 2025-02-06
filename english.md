@@ -13,6 +13,30 @@ Below is a more detailed view of our approach.
 
 # 📅 Program
 
+### February 10, 2025, from 3 PM to 5 PM
+
+- [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S (France)
+- Discussant: [Pierre Labardin](https://iae.univ-larochelle.fr/liae-la-rochelle/organisation/) - La Rochelle University (France)
+
+**Socio-history of the managerial construction of IT in France**
+
+Socio-history has been defined by G. Noiriel as the use of conceptual tools from sociology in historical investigations to denaturalize power relations by tracing their genesis and hidden origins. The current omnipresence of digital tools and how it can affect power relations—whether between the state and corporations or among employees through the redefinition of work, for example—has rarely been the subject of socio-historical analysis in the strict sense. Indeed, French social science research has paid little attention to the transition from mechanography to computing. This neglect of what is retrospectively called "heavy" computing has, in turn, led to a reduced focus on the managerial uses of computing that developed in the 1960s.
+
+On one hand, the use of computers for administrative tasks expanded their market; on the other hand, in the late 1950s and early 1960s, computers were initially seen as new mechanographic machines before emerging as a new phenomenon—"informatics"—characterized by managerial properties that contrasted with those of mechanography. This process of definition led to the creation of new equivalences between machines and management, shaping informatics as understood by managers. This understanding naturalized managerial policies by presenting them as derived from technical necessity. These equivalences still frame our current perception of digital technology, which was thus constructed in the 1960s around the shift in management from traditional machines (large punched-card systems, accounting machines) to early computers.
+
+Based on my research, I aim to show in this presentation that a socio-historical approach to computing must re-evaluate the importance of management in the widespread adoption of computing and in the emergence of individual users. Indeed, within this research framework, forgetting the origins of digital technology leads to its reification. This re-evaluation must also address the ways in which managerial themes circulate and are internalized.
+
+To do so, I will discuss three key points from a socio-historical perspective on computing. First, the association of computers with a form of governmentality distinct from that of traditional mechanographic machines. This governmentality, based on anticipation, flexibility, and adaptability rather than productivity, is at the core of the managerial conception of computing. Second, an analysis of the role of IT service companies (SSII) in shaping the managerial framework of computing, in order to provide a historical perspective on IT outsourcing—something that analyses focused on platform capitalism tend to overlook by emphasizing technological embodiment rather than the social processes in which it is embedded. Finally, I will examine the interactions between the managerial construction of computing and its disciplinary construction. Indeed, managerial circles advocated for taking charge of computer science education at the higher education level while criticizing the university curricula in computing. Thus, during the 1970s, policies on IT education attempted—unsuccessfully—to establish business computing as the dominant field within computing.
+
+
+#### Upcoming dates
+
+- April 1st 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - CNRS-Paris 7, SPHERE (France)
+- April 14, 2025, from 3 PM to 5 PM - [Jaroslav Švelch](http://svelch.com/cv/) - Charles University (Czech Republic)
+- June 16, 2025, from 3 PM to 5 PM - [Michael Homberg](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/michael-homberg) - Centre for Contemporary History (ZZF) Potsdam (Germany)
+
+# Past dates
+
 #### January 27, 2024, from 3 PM to 5 PM 
 
 **Neural Networks: A 100 Years of Technologized Neurophysiology**
@@ -20,15 +44,6 @@ Below is a more detailed view of our approach.
 - Discussant: [Valentin Goujon](https://medialab.sciencespo.fr/equipe/valentin-goujon/) - Sciences Po medialab (France)
 
 > While currently known as a biologically inspired, statistical approach to artificial intelligence, neural networks were first introduced as a neuroanatomical and, later, psychiatric approach to racial and pathological difference. Materialized through practices as varied as silver staining and colonial health policies, brain lacerations and electroshock therapy, and ultimately the software implementation of simulated neurons, neural networks were directly inscribed onto certain bodies to produce a recognition of who—or what—qualifies as an intelligent subject and who doesn’t. In this talk, Ranjodh Singh Dhaliwal and Théo Lepage-Richer revisit five key moments in that model’s history to reconstruct some of the situated practices, social histories, mediating techniques, and ontological assumptions that informed the machine learning model known as neural networks. Far from signaling the ultimate convergence of human and machine intelligence, neural networks highlight the technologization of neurophysiology that characterizes virtually all strands of neuroscientific and AI research of the past century. Taking this traffic as its starting point, this talk explores how cognition came to be constructed as essentially computational in nature, to the point of underwriting a technologized view of human biology, psychology, and sociability. 
-
-#### Upcoming dates
-
-- February 10, 2025, from 3 PM to 5 PM - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S (France)
-- April 1st 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - CNRS-Paris 7, SPHERE (France)
-- April 14, 2025, from 3 PM to 5 PM - [Jaroslav Švelch](http://svelch.com/cv/) - Charles University (Czech Republic)
-- June 16, 2025, from 3 PM to 5 PM - [Michael Homberg](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/michael-homberg) - Centre for Contemporary History (ZZF) Potsdam (Germany)
-
-# Past dates
 
 #### December 16, 2024, from 3 PM to 5 PM 
 _The present is boring, but the future is bright?! A transnational history of the introduction of computers in education since the 1960s_

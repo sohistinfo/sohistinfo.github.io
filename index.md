@@ -89,3 +89,14 @@ Vous pouvez nous contacter sur nos adresses email :
 - camille.paloque-berges [@] lecnam.net
 - adrien.tournier [@] lecnam.net
 
+Pour vous inscrire à la liste de diffusion du séminaire:
+
+1. Ecrire à **sympa@cnam.fr** depuis le mail que vous souhaitez inscrire
+2. En objet du mail indiquer "subscribe seminaire.sohistinfo <VOTRE NOM>". Laissez le corps du message vide.
+
+Il vous suffit ensuite de répondre au mail de confirmation.
+
+Pour vous désabonner d'une liste, procédez comme suit :
+
+1. À partir de l'adresse avec laquelle vous êtes abonné à la liste, envoyez un message à sympa@cnam.fr.
+2. En objet du message, écrivez : unsubscribe seminaire.sohistinfo. Laissez le corps du message vide.

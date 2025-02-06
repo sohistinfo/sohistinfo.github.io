@@ -91,7 +91,7 @@ Pour finir, ce séminaire prendra soin de favoriser une ouverture interdisciplin
 
 **Pour vous inscrire à la liste de diffusion du séminaire seminaire.sohistinfo@lecnam.net :**
 1. Ecrire à **sympa@cnam.fr** depuis le mail que vous souhaitez inscrire
-2. En objet du mail indiquer "subscribe seminaire.sohistinfo <VOTRE NOM>". Laissez le corps du message vide.
+2. En objet du mail indiquer `subscribe seminaire.sohistinfo VOTRE NOM`. Laissez le corps du message vide.
 
 Il vous suffit ensuite de répondre au mail de confirmation.
 

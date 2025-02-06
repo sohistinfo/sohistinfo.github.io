@@ -75,13 +75,23 @@ Finally, this seminar will take care to promote an interdisciplinary opening tow
 
 # 📧 Organizers and Contact
 
-The seminar is organized by (in alphabetical order):
+**The seminar is organized by (in alphabetical order):**
 - [Mathilde Fichen](mathfichen@github.io)
 - [Camille Paloque-Bergès](https://technique-societe.cnam.fr/camille-paloque-berges--836902.kjsp#/)
 - [Adrien Tournier](https://technique-societe.cnam.fr/adrien-tournier--1455493.kjsp#/)
 
-You can contact us via our email addresses:
+**You can contact us via our email addresses:**
 - mathilde.fichen [@] lecnam.net
 - camille.paloque-berges [@] lecnam.net
 - adrien.tournier [@] lecnam.net
+
+**To subscribe to the seminar mailing list seminaire.sohistinfo@lecnam.net:**
+1. Send an email to sympa@cnam.fr from the email address you want to subscribe.
+2. In the subject line of the email, write `subscribe seminaire.sohistinfo YOUR NAME`. Leave the body of the email empty.
+3. Then, simply reply to the confirmation email.
+
+To unsubscribe from a list, follow these steps:
+
+1. From the email address you are subscribed with, send a message to sympa@cnam.fr.
+2. In the subject line of the message, write: `unsubscribe seminaire.sohistinfo`. Leave the body of the email empty.
 

@@ -98,4 +98,4 @@ Il vous suffit ensuite de répondre au mail de confirmation.
 Pour vous désabonner d'une liste, procédez comme suit :
 
 1. À partir de l'adresse avec laquelle vous êtes abonné à la liste, envoyez un message à sympa@cnam.fr.
-2. En objet du message, écrivez : unsubscribe seminaire.sohistinfo. Laissez le corps du message vide.
+2. En objet du message, écrivez : `unsubscribe seminaire.sohistinfo`. Laissez le corps du message vide.

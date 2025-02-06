@@ -79,18 +79,17 @@ Pour finir, ce séminaire prendra soin de favoriser une ouverture interdisciplin
 
 # 📧 Organisateurs et contact
 
-Le séminaire est organisé par (ordre alphabétique):
+**Le séminaire est organisé par (ordre alphabétique) :**
 - [Mathilde Fichen](mathfichen@github.io)
 - [Camille Paloque-Bergès](https://technique-societe.cnam.fr/camille-paloque-berges--836902.kjsp#/)
 - [Adrien Tournier](https://technique-societe.cnam.fr/adrien-tournier--1455493.kjsp#/)
 
-Vous pouvez nous contacter sur nos adresses email :
+**Vous pouvez nous contacter sur nos adresses email :**
 - mathilde.fichen [@] lecnam.net
 - camille.paloque-berges [@] lecnam.net
 - adrien.tournier [@] lecnam.net
 
-Pour vous inscrire à la liste de diffusion du séminaire:
-
+**Pour vous inscrire à la liste de diffusion du séminaire seminaire.sohistinfo@lecnam.net :**
 1. Ecrire à **sympa@cnam.fr** depuis le mail que vous souhaitez inscrire
 2. En objet du mail indiquer "subscribe seminaire.sohistinfo <VOTRE NOM>". Laissez le corps du message vide.
 

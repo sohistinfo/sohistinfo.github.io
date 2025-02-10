@@ -13,7 +13,7 @@ Below is a more detailed view of our approach.
 
 # 📅 Program
 
-#### February 10, 2025, from 3 PM to 5 PM
+#### /!\ CANCELLED February 10, 2025, from 3 PM to 5 PM
 
 - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S (France)
 - Discussant: [Pierre Labardin](https://iae.univ-larochelle.fr/liae-la-rochelle/organisation/) - La Rochelle University (France)

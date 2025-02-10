@@ -10,7 +10,7 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 # 📅 Programme
 
-#### 10 Février 2025 de 15h à 17h
+#### /!\ ANNULÉ 10 Février 2025 de 15h à 17h
 
 **Socio-histoire de la construction managériale de l’informatique en France**
 - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S

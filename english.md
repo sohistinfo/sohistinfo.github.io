@@ -13,6 +13,32 @@ Below is a more detailed view of our approach.
 
 # 📅 Program
 
+#### Monday 14, 2025, from 3 PM to 5 PM
+
+**Power to the clones: Hardware and software bricolage on the periphery**
+- [Jaroslav Švelch](http://svelch.com/) - Charles University (Czech Republic) 
+- Discussant : [Kévin Limonier](url) - Paris-8 University & Institut Français de Géopolitique (France)
+
+> This talk will address the specifics of computing practices (both amateur and professional) in peripheral contexts. Its aim is to lift “clones”, “ports” and other “bastard” hardware and software artifacts from relative obscurity and derision up to the focus of the history of computing. I will approach the topic revisiting the classic concept of bricoleur, introduced by Lévi-Strauss as a counterpoint to engineer. Bricoleur makes do with the resources that are at hand, and that is one of the reasons why hobby computing and homebrew programming have played such important roles in peripheral contexts with limited access to resources and components, such as in the 1980s Soviet bloc. The chapter will use examples from 1980s Czechoslovakia, specifically the local efforts to design and build first mainframes and then microcomputers without using any unavailable Western-manufactured components, or the clones and conversions of Western games for domestic or domestically available hardware. I will argue that clones required considerable ingenuity and effort to make, and that they have made important contributions to the proliferation of computer technology and literacy in regions like Eastern Europe. The talk is based on Švelch’s chapter from the book Abstractions and Embodiments: New Histories of Computing and Society, edited by Janet Abbate and Stephanie Dick.
+
+
+#### Upcoming dates
+
+- June 16, 2025, from 3 PM to 5 PM - [Michael Homberg](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/michael-homberg) - Centre for Contemporary History (ZZF) Potsdam (Germany)
+
+# Past dates
+
+#### April 1, 2025, from 2:30PM to 5PM
+
+**From the Pascaline to the Computer: Contribution to a Contextualized Approach to the Mechanization of Calculation**
+- [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - Paris 8 Vincennes Saint-Denis, SPHERE
+- Discutant : [Loïc Petitgirard](https://technique-societe.cnam.fr/petitgirard-loic-630656.kjsp) - CNAM,HT2S
+
+Session co-organized with the _[History of Computing Seminar at the Musée des Arts et Métiers]_(https://museeinfo.cnam.fr/seminaires/). 
+
+  > Numerous instruments and machines, often developed on the fringes of the academic world, have marked the mechanization of calculation up to the computer. Both their design and manufacturing involved many other actors besides mathematicians alone: artisans, engineers, and physicists. Moreover, these collective research efforts had to generate sufficient socio-political interest to secure funding. The transfers and syntheses of knowledge required for this materialization of calculation go hand in hand with a growing complexity in the professional relationships among these different categories of actors. I propose to analyze this evolution through certain significant examples – including Blaise Pascal’s machine (1623-1662), Charles Babbage’s analytical engine (1791-1871), Vannevar Bush’s differential analyzer (1890-1974), and the first computer prototypes.
+
+
 #### /!\ CANCELLED February 10, 2025, from 3 PM to 5 PM
 
 - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S (France)
@@ -27,15 +53,6 @@ On one hand, the use of computers for administrative tasks expanded their market
 Based on my research, I aim to show in this presentation that a socio-historical approach to computing must re-evaluate the importance of management in the widespread adoption of computing and in the emergence of individual users. Indeed, within this research framework, forgetting the origins of digital technology leads to its reification. This re-evaluation must also address the ways in which managerial themes circulate and are internalized.
 
 To do so, I will discuss three key points from a socio-historical perspective on computing. First, the association of computers with a form of governmentality distinct from that of traditional mechanographic machines. This governmentality, based on anticipation, flexibility, and adaptability rather than productivity, is at the core of the managerial conception of computing. Second, an analysis of the role of IT service companies (SSII) in shaping the managerial framework of computing, in order to provide a historical perspective on IT outsourcing—something that analyses focused on platform capitalism tend to overlook by emphasizing technological embodiment rather than the social processes in which it is embedded. Finally, I will examine the interactions between the managerial construction of computing and its disciplinary construction. Indeed, managerial circles advocated for taking charge of computer science education at the higher education level while criticizing the university curricula in computing. Thus, during the 1970s, policies on IT education attempted—unsuccessfully—to establish business computing as the dominant field within computing.
-
-
-#### Upcoming dates
-
-- April 1st 2025 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - CNRS-Paris 7, SPHERE (France)
-- April 14, 2025, from 3 PM to 5 PM - [Jaroslav Švelch](http://svelch.com/cv/) - Charles University (Czech Republic)
-- June 16, 2025, from 3 PM to 5 PM - [Michael Homberg](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/michael-homberg) - Centre for Contemporary History (ZZF) Potsdam (Germany)
-
-# Past dates
 
 #### January 27, 2024, from 3 PM to 5 PM 
 

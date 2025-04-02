@@ -10,20 +10,28 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 # 📅 Programme
 
+#### 14 avril 2025 de 15h à 17h
+**Power to the clones: Hardware and software bricolage on the periphery**
+- [Jaroslav Švelch](http://svelch.com/) - Charles University (Prague) 
+- Discutant : [Kévin Limonier](url) - Université Paris-8 & Institut Français de Géopolitique
+
+> This talk will address the specifics of computing practices (both amateur and professional) in peripheral contexts. Its aim is to lift “clones”, “ports” and other “bastard” hardware and software artifacts from relative obscurity and derision up to the focus of the history of computing. I will approach the topic revisiting the classic concept of bricoleur, introduced by Lévi-Strauss as a counterpoint to engineer. Bricoleur makes do with the resources that are at hand, and that is one of the reasons why hobby computing and homebrew programming have played such important roles in peripheral contexts with limited access to resources and components, such as in the 1980s Soviet bloc. The chapter will use examples from 1980s Czechoslovakia, specifically the local efforts to design and build first mainframes and then microcomputers without using any unavailable Western-manufactured components, or the clones and conversions of Western games for domestic or domestically available hardware. I will argue that clones required considerable ingenuity and effort to make, and that they have made important contributions to the proliferation of computer technology and literacy in regions like Eastern Europe. The talk is based on Švelch’s chapter from the book Abstractions and Embodiments: New Histories of Computing and Society, edited by Janet Abbate and Stephanie Dick.
+
+
+#### Dates à venir
+- 16 Juin 2025 de 15h à 17h - [Michael Homberg](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/michael-homberg) - Centre for Contemporary History (ZZF) Potsdam (Allemagne)
+
+# Dates passées
+
 #### 1er avril 2025 de 14h30 à 17h
 
 **De la Pascaline à l'ordinateur : contribution à une approche contextualisée de la mécanisation du calcul**
 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - Paris 8 Vincennes Saint-Denis, SPHERE
+- Discutant : [Loïc Petitgirard](https://technique-societe.cnam.fr/petitgirard-loic-630656.kjsp) - CNAM,HT2S
 
 Séance co-organisée avec le [Séminaire d'Histoire d'Informatique du Musée des Arts et Métiers](https://museeinfo.cnam.fr/seminaires/). La séance aura exceptionnellement lieu au **CNAM 292 rue Saint-Martin, en amphithéâtre Fabry Pérot et démarrera à 14h30**. 
 
   > De nombreux instruments et machines, souvent élaborés en marge du milieu académique, ont jalonné la mécanisation du calcul jusqu'à l'ordinateur. Aussi bien leur conception que leur fabrication ont mobilisé bien d'autres acteurs que les seuls mathématiciens : artisans, ingénieurs, physiciens. Et ces recherches collectives ont dû susciter un intérêt socio-politique suffisant pour décider de leur financement. Les transferts et synthèses de savoirs que suppose cette matérialisation du calcul va de pair avec une complexification des rapports professionnels entre ces différentes catégories d'acteurs. Je me propose d'en analyser l'évolution à partir de certains exemples significatifs – dont la machine de Blaise Pascal (1623-1662), la machine analytique de Charles Babbage (1791-1871), l'analyseur différentiel de Vannevar Bush (1890-1974), et les premiers prototypes d'ordinateur.
-
-#### Dates à venir
-- 14 Avril 2025 de 15h à 17h - [Jaroslav Švelch](http://svelch.com/cv/) - Charles University (République Tchèque)
-- 16 Juin 2025 de 15h à 17h - [Michael Homberg](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/michael-homberg) - Centre for Contemporary History (ZZF) Potsdam (Allemagne)
-
-# Dates passées
 
 #### /!\ ANNULÉ 10 Février 2025 de 15h à 17h
 

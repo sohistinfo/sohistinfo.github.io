@@ -20,7 +20,7 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 
 #### Dates à venir
-- 16 Juin 2025 de 15h à 17h - [Michael Homberg](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/michael-homberg) - Centre for Contemporary History (ZZF) Potsdam (Allemagne)
+- /!\  reporté à la rentrée - [Michael Homberg](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/michael-homberg) - Centre for Contemporary History (ZZF) Potsdam (Allemagne)
 
 # Dates passées
 

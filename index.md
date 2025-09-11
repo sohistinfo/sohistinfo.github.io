@@ -33,6 +33,7 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
   <summary>
   14 avril 2025  - Power to the clones: Hardware and software bricolage on the periphery, Jaroslav Švelch
   </summary>
+  
 - [Jaroslav Švelch](http://svelch.com/) - Charles University (Prague) 
 - Discutant : [Kévin Limonier](https://www.geopolitique.net/our_team/kevin-limonier/) - Université Paris-8 & Institut Français de Géopolitique
 
@@ -43,6 +44,7 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
   <summary>
   1er avril 2025  - De la Pascaline à l'ordinateur : contribution à une approche contextualisée de la mécanisation du calcul, Marie-José Durand-Richard
   </summary>
+  
 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - Paris 8 Vincennes Saint-Denis, SPHERE
 - Discutant : [Loïc Petitgirard](https://technique-societe.cnam.fr/petitgirard-loic-630656.kjsp) - CNAM,HT2S
 
@@ -79,7 +81,6 @@ Examining expectations of educational technologies helps to uncover some of the 
   <summary>
   14 Octobre 2024  - Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative, Ksenia Ermoshina et Boris Melnichenko
   </summary>
-#### 14 Octobre 2024 de 15h à 17h
 
 - [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/) et [Boris Melnichenko](https://cis.cnrs.fr/en/boris_melnichenko/) - Centre Internet et Société, CNRS
 - Discutant : [Benjamin Bürbaumer](https://www.centreemiledurkheim.fr/notre-equipe/benjamin-burbaumer/) - Sciences Po Bordeaux

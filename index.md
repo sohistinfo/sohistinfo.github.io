@@ -21,7 +21,7 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
   <summary markdown="span">
   16 juin 2025 - <strong>Cédric Neumann</strong> - Socio-histoire de la construction managériale de l’informatique en France
   </summary>
-    <br>
+  
 - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S
 - Discutant : [Pierre Labardin](https://iae.univ-larochelle.fr/liae-la-rochelle/organisation/) - La Rochelle Université
 
@@ -31,7 +31,7 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 <details markdown="1">
   <summary markdown="span">
-  <strong>14 avril 2025</strong> - Power to the clones: Hardware and software bricolage on the periphery, Jaroslav Švelch
+  14 avril 2025 - <strong>Jaroslav Švelch</strong> - Power to the clones: Hardware and software bricolage on the periphery, 
   </summary>
   
 - [Jaroslav Švelch](http://svelch.com/) - Charles University (Prague) 
@@ -42,7 +42,7 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 <details markdown="1">
   <summary markdown="span">
-  <strong>1er avril 2025</strong>  - De la Pascaline à l'ordinateur : contribution à une approche contextualisée de la mécanisation du calcul, Marie-José Durand-Richard
+  1er avril 2025 - <strong>Marie-José Durand-Richard</strong> - De la Pascaline à l'ordinateur : contribution à une approche contextualisée de la mécanisation du calcul 
   </summary>
   
 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - Paris 8 Vincennes Saint-Denis, SPHERE
@@ -55,7 +55,7 @@ Séance co-organisée avec le [Séminaire d'Histoire d'Informatique du Musée de
 
 <details markdown="1">
   <summary markdown="span">
-  <strong>27 janvier 2024</strong>  - Les réseaux de neurones : 100 ans de neurophysiologie technologisée, Théo Lepage-Richer et Ranjodh Singh Dhaliwal
+  27 janvier 2024 - <strong>Théo Lepage-Richer et Ranjodh Singh Dhaliwal</strong> - Les réseaux de neurones : 100 ans de neurophysiologie technologisée, 
   </summary>
 
 - [Théo Lepage-Richer](https://www.utm.utoronto.ca/iccit/people/theo-lepage-richer), Université de Toronto (Canada) et [Ranjodh Singh Dhaliwal](https://ranjodhdhaliwal.com/), Université de Basel (Suisse)
@@ -66,7 +66,7 @@ Séance co-organisée avec le [Séminaire d'Histoire d'Informatique du Musée de
 
 <details markdown="1">
   <summary markdown="span">
-  <strong>16 Décembre 2024</strong>  - The present is boring, but the future is bright?! A transnational history of the introduction of computers in education since the 1960s, Barbara Hof
+  16 Décembre 2024 - <strong>Barbara Hof</strong> - The present is boring, but the future is bright?! A transnational history of the introduction of computers in education since the 1960s, 
   </summary>
 
 - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof) - University of Lausanne (Suisse)
@@ -79,7 +79,7 @@ Examining expectations of educational technologies helps to uncover some of the 
 
 <details markdown="1">
   <summary markdown="span">
-  <strong>14 Octobre 2024</strong>  - Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative, Ksenia Ermoshina et Boris Melnichenko
+  14 Octobre 2024 - <strong>Ksenia Ermoshina et Boris Melnichenko</strong> - Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative, 
   </summary>
 
 - [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/) et [Boris Melnichenko](https://cis.cnrs.fr/en/boris_melnichenko/) - Centre Internet et Société, CNRS

@@ -144,9 +144,9 @@ img {
 }
 
 details {
-  margin: 1.2em 0;              /* space between each section */
-  padding: 0.75em 1em;          /* padding inside the card */
-  border: 1px solid #ddd;       /* light border */
+  margin: 0.5em 0;              /* space between each section */
+  padding: 0.5em 0.5em;          /* padding inside the card */
+  border: 1px solid #fafafa;       /* light border */
   border-radius: 0.1em;         /* rounded corners */
   background-color: #fafafa;    /* light gray background */
   transition: background 0.3s;  /* smooth hover effect */

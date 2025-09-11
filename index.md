@@ -17,8 +17,8 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 # 2024/2025
 
-<details>
-  <summary>
+<details markdown="1">
+  <summary markdown="span">
   16 juin 2025  - Socio-histoire de la construction managériale de l’informatique en France, Cédric Neumann
   </summary>
     
@@ -29,8 +29,8 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 </details>
 
 
-<details>
-  <summary>
+<details markdown="1">
+  <summary markdown="span">
   14 avril 2025  - Power to the clones: Hardware and software bricolage on the periphery, Jaroslav Švelch
   </summary>
   
@@ -40,8 +40,8 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 > This talk will address the specifics of computing practices (both amateur and professional) in peripheral contexts. Its aim is to lift “clones”, “ports” and other “bastard” hardware and software artifacts from relative obscurity and derision up to the focus of the history of computing. I will approach the topic revisiting the classic concept of bricoleur, introduced by Lévi-Strauss as a counterpoint to engineer. Bricoleur makes do with the resources that are at hand, and that is one of the reasons why hobby computing and homebrew programming have played such important roles in peripheral contexts with limited access to resources and components, such as in the 1980s Soviet bloc. The chapter will use examples from 1980s Czechoslovakia, specifically the local efforts to design and build first mainframes and then microcomputers without using any unavailable Western-manufactured components, or the clones and conversions of Western games for domestic or domestically available hardware. I will argue that clones required considerable ingenuity and effort to make, and that they have made important contributions to the proliferation of computer technology and literacy in regions like Eastern Europe. The talk is based on Švelch’s chapter from the book Abstractions and Embodiments: New Histories of Computing and Society, edited by Janet Abbate and Stephanie Dick.
 </details>
 
-<details>
-  <summary>
+<details markdown="1">
+  <summary markdown="span">
   1er avril 2025  - De la Pascaline à l'ordinateur : contribution à une approche contextualisée de la mécanisation du calcul, Marie-José Durand-Richard
   </summary>
   
@@ -53,8 +53,8 @@ Séance co-organisée avec le [Séminaire d'Histoire d'Informatique du Musée de
   > De nombreux instruments et machines, souvent élaborés en marge du milieu académique, ont jalonné la mécanisation du calcul jusqu'à l'ordinateur. Aussi bien leur conception que leur fabrication ont mobilisé bien d'autres acteurs que les seuls mathématiciens : artisans, ingénieurs, physiciens. Et ces recherches collectives ont dû susciter un intérêt socio-politique suffisant pour décider de leur financement. Les transferts et synthèses de savoirs que suppose cette matérialisation du calcul va de pair avec une complexification des rapports professionnels entre ces différentes catégories d'acteurs. Je me propose d'en analyser l'évolution à partir de certains exemples significatifs – dont la machine de Blaise Pascal (1623-1662), la machine analytique de Charles Babbage (1791-1871), l'analyseur différentiel de Vannevar Bush (1890-1974), et les premiers prototypes d'ordinateur.
 </details>
 
-<details>
-  <summary>
+<details markdown="1">
+  <summary markdown="span">
   27 janvier 2024  - Les réseaux de neurones : 100 ans de neurophysiologie technologisée, Théo Lepage-Richer et Ranjodh Singh Dhaliwal
   </summary>
 
@@ -64,8 +64,8 @@ Séance co-organisée avec le [Séminaire d'Histoire d'Informatique du Musée de
 > Bien qu’actuellement connus comme une approche statistique à l’intelligence artificielle inspirée par la biologie, les réseaux de neurones ont tout d’abord été introduits comme un modèle neuroanatomique, puis psychiatrique, visant à expliquer la différence raciale et pathologique. Matérialisés à travers des pratiques aussi variées que la coloration argentique et les politiques sanitaires coloniales, les interventions psychochirurgicales et l’électrothérapie, et finalement la simulation de neurones artificiels, les réseaux de neurones ont été expérimentalement inscrits sur certains corps afin d’établir qui—ou quoi—se qualifie comme un sujet intelligent. Dans cette présentation, Ranjodh Singh Dhaliwal et Théo Lepage-Richer revisitent cinq moments clés de l’histoire de ce modèle pour reconstruire certaines des pratiques situées, des histoires sociales, des techniques de médiation et des présupposés ontologiques qui ont influencé la transformation récente des réseaux de neurones en modèle d’apprentissage automatique. Loin de signaler la convergence de l’intelligence humaine et de l’intelligence machine, les réseaux de neurones mettent en évidence la technologisation de la neurophysiologie qui caractérise la recherche dans les champs de la neuroscience et de l’intelligence artificielle depuis plus d’un siècle. En prenant la proximité historique entre ces disciplines comme point de départ, cette présentation relate la façon dont la cognition en est venue à être conçue comme essentiellement computationnelle par nature, au point de soutenir une vision technologisée de la biologie, de la psychologie et de la sociabilité humaines.
 </details>
 
-<details>
-  <summary>
+<details markdown="1">
+  <summary markdown="span">
   16 Décembre 2024  - The present is boring, but the future is bright?! A transnational history of the introduction of computers in education since the 1960s, Barbara Hof
   </summary>
 
@@ -77,8 +77,8 @@ As a contribution to the research seminar, this talk will address how the use of
 Examining expectations of educational technologies helps to uncover some of the underlying assumptions that drive innovation. The talk is based on the author’s contribution to a forthcoming book chapter that will add a historical perspective to the growing critical literature questioning the futurism inherent in digital educational media.
 </details>
 
-<details>
-  <summary>
+<details markdown="1">
+  <summary markdown="span">
   14 Octobre 2024  - Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative, Ksenia Ermoshina et Boris Melnichenko
   </summary>
 

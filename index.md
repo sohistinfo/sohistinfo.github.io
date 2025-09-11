@@ -4,16 +4,33 @@ title: So-Hist-Info
 subtitle: Séminaire - Socio-Histoire de l'Informatique
 ---
 
-# 🖳 A propos
+# A propos
 
 Le **Séminaire de socio-histoire de l'informatique** est un séminaire de recherche organisé par le centre de recherche [HT2S du Conservatoire National des Arts et Métiers](https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp). Tous les deux mois, nous invitons un.e chercheur.se en histoire et/ou anthropologie et sociologie (avec une perspective historique ou diachronique) de l’informatique à présenter ses travaux. Le séminaire a pour objectif d’explorer de nouveaux récits de l’histoire de l’informatique sur le temps long, en mettant l’accent sur la manière dont l’informatique s’entrelace avec les questions sociales, économiques, politiques et culturelles. Vous trouverez ci-dessous une vue plus détaillée de notre approche.
 
-# 📅 Programme
+# 2025/2026
 
+<details markdown="1">
+  <summary markdown="span">
+  8 octobre 2025 15h-17h - <strong>Kevin Driscoll</strong>
+  </summary>
+  
+- [Kevin Driscoll](https://kevindriscoll.info/) - Associate Professor, Department of Media Studies, University of Virginia
 
+> A venir
+</details>
 
-#### Dates à venir
-- /!\  reporté à la rentrée - [Michael Homberg](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/michael-homberg) - Centre for Contemporary History (ZZF) Potsdam (Allemagne)
+<details markdown="1">
+  <summary markdown="span">
+  13 octobre 2025 15h-17h - <strong>Lennart Vincent Schmidt et Michael Homberg</strong> - Digital Inequalities. Divides, Hierarchies, and Boundaries in Germany
+  </summary>
+  
+- [Lennart Vincent Schmidt](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/lennart-v-schmidt) - Chercheur doctoral, Leibniz Center for Contemporary History, Potsdam
+- [Michael Homberg](https://zzf-potsdam.de/en/institution/people/staff/michael-homberg) - Assistant Professor, Leibniz Center for Contemporary History, Potsdam
+
+> This lecture examines how digitalization, often portrayed as a narrative of modernization and emancipation, has also generated new forms of social stratification. From the 1970s onwards, computer technologies reshaped work, education, governance, and migration regimes in ways that reinforced divides, hierarchies, and boundaries within society. Building on the broader research agenda of Digital Inequalities, the talk highlights the ambivalences of the “digital society” by tracing both the promises of inclusion and the mechanisms of exclusion. In this context, the idea of Digital Borders illustrates how the computerization of migration control has transformed mobility into data, contributing to the reproduction of inequalities in Germany and Europe.
+</details>
+
 
 # 2024/2025
 
@@ -88,13 +105,13 @@ Examining expectations of educational technologies helps to uncover some of the 
 > Dans le cadre du projet ANR CulturIA, cette enquête porte sur l'histoire contemporaine de l'intelligence artificielle et ses aspects socio-culturels, notamment dans le monde russophone et ses rapports à l'international. Marqué par la guerre contre l'Ukraine et les sanctions économiques, le domaine a connu une restructuration à la fois au niveau des infrastructures mais aussi au niveau des discours et représentations. L'enquête collective menée en collaboration avec Boris Melnichenko suit les russes qui créent ou utilisent les IA en exil mais aussi les ingénieurs qui travaillent pour les grandes entreprises en Russie. Dans l'esprit des STS, elle reste attentive au code et aux infrastructures et décrit les restructurations importantes des projets technologiques dans le contexte de crise géopolitique majeure. Comparant les projets en machine-learning et IA russes avec, notamment, des projets similaires issus des Etats-Unis et de la Chine, cette recherche se pose la question : peut-on parler d'une "IA à la russe" ? Existe-il des traits caractéristiques pouvant définir les façons de faire et de parler de l'IA propres à la Russie, malgré les emprunts, influences et circulations transnationales inévitables qui marquent ce domaine ?
 </details>
 
-# 📍 Informations pratiques et inscription
+# Informations pratiques et inscription
 
 Pour assister au séminaire, veuillez vous **[inscrire ici](https://framaforms.org/inscription-seminaire-de-socio-histoire-de-linformatique-1725366317)**. 
 
 Le seminaire se tiendra en hybride au Conservatoire National des Arts et Métiers, au **2 rue Conté, 75003 Paris**. La salle et le lien de connexion sera communiqué aux personnes inscrites avant la séance. 
 
-# 💭 Approche
+# Approche
 
 _Informatique, Informatiks, Informatics..._ Le terme, largement internationalisé, est sujet à des variations sémantiques qui témoignent des contextes d’usage différents d’un domaine très labile, ayant pour dénominateur commun la transformation de l’information dans des systèmes. Qu’ils s’agissent de systèmes logiques et mécaniques, industriels ou artisanaux, voire formels ou sociaux, cette labilité nous intéresse. Après tout, les « calculateurs humains » qui peuplaient les banques et bureaux comptables du XIXè siècle ne participent-ils pas de plein droit à l’histoire des ordinateurs ? Et si, pour reprendre un canon de la _Computing history_, l’ordinateur est devenu « universel », l’informatique (ou  « les informatiques »), ne sont-elles pas marquées par des dynamiques locales et spécifiques, certes relatives mais aussi questionnant cette universalité ? 
 
@@ -115,7 +132,7 @@ On peut aussi questionner la positivité par défaut du grand récit de l’info
 Pour finir, ce séminaire prendra soin de favoriser une ouverture interdisciplinaire vers d’autres sciences sociales, notamment la philosophie, la sociologie, l’anthropologie, permettant de renouveler les concepts et de remettre en question les catégories d’analyse habituelles du phénomène informatique.
 
 
-# 📧 Organisateurs et contact
+# Organisateurs et contact
 
 **Le séminaire est organisé par (ordre alphabétique) :**
 - [Mathilde Fichen](mathfichen@github.io)

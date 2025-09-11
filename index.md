@@ -19,9 +19,13 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 <details>
   <summary>
-  **16 juin 2025** - *Socio-histoire de la construction managériale de l’informatique en France*, [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S
+  Socio-histoire de la construction managériale de l’informatique en France, Cédric Neumann
   </summary>
-  
+
+    ### 16 juin 2025 
+
+**Socio-histoire de la construction managériale de l’informatique en France**    
+    
 - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S
 - Discutant : [Pierre Labardin](https://iae.univ-larochelle.fr/liae-la-rochelle/organisation/) - La Rochelle Université
 

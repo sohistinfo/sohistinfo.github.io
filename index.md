@@ -12,7 +12,9 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 <details markdown="1">
   <summary markdown="span">
+    
   8 octobre 2025 15h-17h - <strong>Kevin Driscoll</strong>
+  
   </summary>
   
 - [Kevin Driscoll](https://kevindriscoll.info/) - Associate Professor, Department of Media Studies, University of Virginia
@@ -22,7 +24,9 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 <details markdown="1">
   <summary markdown="span">
+    
   13 octobre 2025 15h-17h - <strong>Lennart Vincent Schmidt et Michael Homberg</strong> - Digital Inequalities. Divides, Hierarchies, and Boundaries in Germany
+  
   </summary>
   
 - [Lennart Vincent Schmidt](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/lennart-v-schmidt) - Chercheur doctoral, Leibniz Center for Contemporary History, Potsdam
@@ -36,7 +40,9 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 <details markdown="1">
   <summary markdown="span">
+    
   16 juin 2025 - <strong>Cédric Neumann</strong> - Socio-histoire de la construction managériale de l’informatique en France
+  
   </summary>
   
 - [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S
@@ -48,7 +54,9 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 <details markdown="1">
   <summary markdown="span">
-  14 avril 2025 - <strong>Jaroslav Švelch</strong> - Power to the clones: Hardware and software bricolage on the periphery, 
+    
+  14 avril 2025 - <strong>Jaroslav Švelch</strong> - Power to the clones: Hardware and software bricolage on the periphery
+  
   </summary>
   
 - [Jaroslav Švelch](http://svelch.com/) - Charles University (Prague) 
@@ -59,7 +67,9 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 <details markdown="1">
   <summary markdown="span">
+    
   1er avril 2025 - <strong>Marie-José Durand-Richard</strong> - De la Pascaline à l'ordinateur : contribution à une approche contextualisée de la mécanisation du calcul 
+  
   </summary>
   
 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - Paris 8 Vincennes Saint-Denis, SPHERE
@@ -72,7 +82,9 @@ Séance co-organisée avec le [Séminaire d'Histoire d'Informatique du Musée de
 
 <details markdown="1">
   <summary markdown="span">
-  27 janvier 2024 - <strong>Théo Lepage-Richer et Ranjodh Singh Dhaliwal</strong> - Les réseaux de neurones : 100 ans de neurophysiologie technologisée, 
+    
+  27 janvier 2024 - <strong>Théo Lepage-Richer et Ranjodh Singh Dhaliwal</strong> - Les réseaux de neurones : 100 ans de neurophysiologie technologisée
+  
   </summary>
 
 - [Théo Lepage-Richer](https://www.utm.utoronto.ca/iccit/people/theo-lepage-richer), Université de Toronto (Canada) et [Ranjodh Singh Dhaliwal](https://ranjodhdhaliwal.com/), Université de Basel (Suisse)
@@ -83,7 +95,9 @@ Séance co-organisée avec le [Séminaire d'Histoire d'Informatique du Musée de
 
 <details markdown="1">
   <summary markdown="span">
-  16 Décembre 2024 - <strong>Barbara Hof</strong> - The present is boring, but the future is bright?! A transnational history of the introduction of computers in education since the 1960s, 
+    
+  16 Décembre 2024 - <strong>Barbara Hof</strong> - The present is boring, but the future is bright?! A transnational history of the introduction of computers in education since the 1960s
+  
   </summary>
 
 - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof) - University of Lausanne (Suisse)
@@ -96,7 +110,9 @@ Examining expectations of educational technologies helps to uncover some of the 
 
 <details markdown="1">
   <summary markdown="span">
-  14 Octobre 2024 - <strong>Ksenia Ermoshina et Boris Melnichenko</strong> - Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative, 
+    
+  14 Octobre 2024 - <strong>Ksenia Ermoshina et Boris Melnichenko</strong> - Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative
+  
   </summary>
 
 - [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/) et [Boris Melnichenko](https://cis.cnrs.fr/en/boris_melnichenko/) - Centre Internet et Société, CNRS

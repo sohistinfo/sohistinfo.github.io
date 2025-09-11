@@ -143,6 +143,50 @@ img {
   margin-top: 1.875rem;
 }
 
+details {
+  margin: 1.2em 0;              /* space between each section */
+  padding: 0.75em 1em;          /* padding inside the card */
+  border: 1px solid #ddd;       /* light border */
+  border-radius: 0.5em;         /* rounded corners */
+  background-color: #fafafa;    /* light gray background */
+  transition: background 0.3s;  /* smooth hover effect */
+}
+
+details:hover {
+  background-color: #f0f0f0;    /* slightly darker on hover */
+}
+
+details[open] {
+  background-color: #fff;       /* open section has white background */
+  border-color: #bbb;           /* stronger border when open */
+}
+
+details summary {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.05em;
+  margin: -0.75em -1em 0;       /* extend summary to card edges */
+  padding: 0.75em 1em;
+  list-style: none;             /* remove default marker in some browsers */
+}
+
+details summary::-webkit-details-marker {
+  display: none;                /* hide default triangle */
+}
+
+details summary::before {
+  content: "▶ ";                /* closed marker */
+  transition: transform 0.2s;
+  display: inline-block;
+  margin-right: 0.25em;
+}
+
+details[open] summary::before {
+  content: "▼ ";                /* open marker */
+}
+
+
+
 @media (min-width: 768px) {
   .disqus-comments {
     margin-top: 2.5rem;

@@ -18,6 +18,9 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 - [Kevin Driscoll](https://kevindriscoll.info/) - Associate Professor, Department of Media Studies, University of Virginia
 
 > A venir
+
+Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 21
+
 </details>
 
 <details markdown="1">
@@ -29,6 +32,8 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 - [Michael Homberg](https://zzf-potsdam.de/en/institution/people/staff/michael-homberg) - Assistant Professor, Leibniz Center for Contemporary History, Potsdam
 
 > This lecture examines how digitalization, often portrayed as a narrative of modernization and emancipation, has also generated new forms of social stratification. From the 1970s onwards, computer technologies reshaped work, education, governance, and migration regimes in ways that reinforced divides, hierarchies, and boundaries within society. Building on the broader research agenda of Digital Inequalities, the talk highlights the ambivalences of the “digital society” by tracing both the promises of inclusion and the mechanisms of exclusion. In this context, the idea of Digital Borders illustrates how the computerization of migration control has transformed mobility into data, contributing to the reproduction of inequalities in Germany and Europe.
+
+Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 24
 </details>
 
 

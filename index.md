@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Séminaire - Socio-Histoire de l'Informatique
+title: Socio-Histoire de l'Informatique
 subtitle: Un séminaire proposé par le laboratoire HT2S du CNAM
 ---
 

@@ -109,7 +109,7 @@ Examining expectations of educational technologies helps to uncover some of the 
 
 <details markdown="1">
   <summary markdown="span">
-  October 14, 2024 - <strong>Ksenia Ermoshina</strong>
+  October 14, 2024 - <strong>Ksenia Ermoshina and Boris Melnichenko</strong> - A ‘Sovereign Intelligence’? Infrastructures, Representations, and the Geopolitics of Russian AI: A Comparative Approach
   </summary>
   
 - [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/) and [Boris Melnichenko](https://cis.cnrs.fr/en/boris_melnichenko/) - CNRS, Centre Internet et Société (France)

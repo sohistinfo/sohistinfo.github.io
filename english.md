@@ -1,7 +1,7 @@
 ---
 layout: home
-title: So-Hist-Info
-subtitle: Seminar - Socio-History of Informatics
+title: Socio-History of Informatics
+subtitle: A seminar organized by the HT2S laboratory at CNAM
 ---
 
 # About

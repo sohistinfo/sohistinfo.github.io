@@ -4,48 +4,74 @@ title: So-Hist-Info
 subtitle: Seminar - Socio-History of Informatics
 ---
 
-# 🖳 About
+# About
 
 The **Socio-History of Informatics Seminar** is a research seminar organized by the [HT2S research center](https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp) of the National Conservatory of Arts and Crafts. Every two months, we invite a researcher in the history and/or anthropology and sociology (with a historical or diachronic approach) of computing and informatics to present their work. The seminar aims to explore new narratives in the history of computing and informatics over time, with an emphasis on they intertwine with social, economic, political and cultural issues.
 
 Below is a more detailed view of our approach.
 
 
-# 📅 Program
 
-#### June 16, 2025, from 3 PM to 5 PM (postponed from Feb 10)
+# 2025/2026
 
-- [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S (France)
+<details markdown="1">
+  <summary markdown="span">
+  October 8 2025, 3 PM - 5 PM - <strong>Kevin Driscoll</strong>
+  </summary>
+  
+- [Kevin Driscoll](https://kevindriscoll.info/) - Associate Professor, Department of Media Studies, University of Virginia
+
+> We bill announced soon
+</details>
+
+<details markdown="1">
+  <summary markdown="span"> 
+  Octobre 13 2025, 3 PM - 5 PM - <strong>Lennart Vincent Schmidt and Michael Homberg</strong> - Digital Inequalities. Divides, Hierarchies, and Boundaries in Germany
+  </summary>
+  
+- [Lennart Vincent Schmidt](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/lennart-v-schmidt) - Doctoral researcher, Leibniz Center for Contemporary History, Potsdam
+- [Michael Homberg](https://zzf-potsdam.de/en/institution/people/staff/michael-homberg) - Assistant Professor, Leibniz Center for Contemporary History, Potsdam
+
+> This lecture examines how digitalization, often portrayed as a narrative of modernization and emancipation, has also generated new forms of social stratification. From the 1970s onwards, computer technologies reshaped work, education, governance, and migration regimes in ways that reinforced divides, hierarchies, and boundaries within society. Building on the broader research agenda of Digital Inequalities, the talk highlights the ambivalences of the “digital society” by tracing both the promises of inclusion and the mechanisms of exclusion. In this context, the idea of Digital Borders illustrates how the computerization of migration control has transformed mobility into data, contributing to the reproduction of inequalities in Germany and Europe.
+</details>
+
+# 2024/2025
+
+<details markdown="1">
+  <summary markdown="span">
+  June 16, 2025 - <strong>Cédric Neumann</strong> - Socio-history of the managerial construction of IT in France
+  </summary>
+  
+- [Kevin Driscoll](https://kevindriscoll.info/) - Associate Professor, Department of Media Studies, University of Virginia- [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S (France)
 - Discussant: [Pierre Labardin](https://iae.univ-larochelle.fr/liae-la-rochelle/organisation/) - La Rochelle University (France)
-
-**Socio-history of the managerial construction of IT in France**
-
-Socio-history has been defined by G. Noiriel as the use of conceptual tools from sociology in historical investigations to denaturalize power relations by tracing their genesis and hidden origins. The current omnipresence of digital tools and how it can affect power relations—whether between the state and corporations or among employees through the redefinition of work, for example—has rarely been the subject of socio-historical analysis in the strict sense. Indeed, French social science research has paid little attention to the transition from mechanography to computing. This neglect of what is retrospectively called "heavy" computing has, in turn, led to a reduced focus on the managerial uses of computing that developed in the 1960s.
+  
+> Socio-history has been defined by G. Noiriel as the use of conceptual tools from sociology in historical investigations to denaturalize power relations by tracing their genesis and hidden origins. The current omnipresence of digital tools and how it can affect power relations—whether between the state and corporations or among employees through the redefinition of work, for example—has rarely been the subject of socio-historical analysis in the strict sense. Indeed, French social science research has paid little attention to the transition from mechanography to computing. This neglect of what is retrospectively called "heavy" computing has, in turn, led to a reduced focus on the managerial uses of computing that developed in the 1960s.
 
 On one hand, the use of computers for administrative tasks expanded their market; on the other hand, in the late 1950s and early 1960s, computers were initially seen as new mechanographic machines before emerging as a new phenomenon—"informatics"—characterized by managerial properties that contrasted with those of mechanography. This process of definition led to the creation of new equivalences between machines and management, shaping informatics as understood by managers. This understanding naturalized managerial policies by presenting them as derived from technical necessity. These equivalences still frame our current perception of digital technology, which was thus constructed in the 1960s around the shift in management from traditional machines (large punched-card systems, accounting machines) to early computers.
 
 Based on my research, I aim to show in this presentation that a socio-historical approach to computing must re-evaluate the importance of management in the widespread adoption of computing and in the emergence of individual users. Indeed, within this research framework, forgetting the origins of digital technology leads to its reification. This re-evaluation must also address the ways in which managerial themes circulate and are internalized.
 
 To do so, I will discuss three key points from a socio-historical perspective on computing. First, the association of computers with a form of governmentality distinct from that of traditional mechanographic machines. This governmentality, based on anticipation, flexibility, and adaptability rather than productivity, is at the core of the managerial conception of computing. Second, an analysis of the role of IT service companies (SSII) in shaping the managerial framework of computing, in order to provide a historical perspective on IT outsourcing—something that analyses focused on platform capitalism tend to overlook by emphasizing technological embodiment rather than the social processes in which it is embedded. Finally, I will examine the interactions between the managerial construction of computing and its disciplinary construction. Indeed, managerial circles advocated for taking charge of computer science education at the higher education level while criticizing the university curricula in computing. Thus, during the 1970s, policies on IT education attempted—unsuccessfully—to establish business computing as the dominant field within computing.
+</details>
 
 
-#### Upcoming dates
-
-- Postponned to September or October - [Michael Homberg](https://zzf-potsdam.de/institut/personen/mitarbeiter_innen/michael-homberg) - Centre for Contemporary History (ZZF) Potsdam (Germany)
-
-# Past dates
-
-#### Monday 14, 2025, from 3 PM to 5 PM
-
-**Power to the clones: Hardware and software bricolage on the periphery**
+<details markdown="1">
+  <summary markdown="span">
+  Monday 14, 2025 - <strong>Jaroslav Švelch</strong> - Power to the clones: Hardware and software bricolage on the periphery
+  </summary>
+  
 - [Jaroslav Švelch](http://svelch.com/) - Charles University (Czech Republic) 
 - Discussant : [Kévin Limonier](https://www.geopolitique.net/our_team/kevin-limonier/) - Paris-8 University & Institut Français de Géopolitique (France)
 
 > This talk will address the specifics of computing practices (both amateur and professional) in peripheral contexts. Its aim is to lift “clones”, “ports” and other “bastard” hardware and software artifacts from relative obscurity and derision up to the focus of the history of computing. I will approach the topic revisiting the classic concept of bricoleur, introduced by Lévi-Strauss as a counterpoint to engineer. Bricoleur makes do with the resources that are at hand, and that is one of the reasons why hobby computing and homebrew programming have played such important roles in peripheral contexts with limited access to resources and components, such as in the 1980s Soviet bloc. The chapter will use examples from 1980s Czechoslovakia, specifically the local efforts to design and build first mainframes and then microcomputers without using any unavailable Western-manufactured components, or the clones and conversions of Western games for domestic or domestically available hardware. I will argue that clones required considerable ingenuity and effort to make, and that they have made important contributions to the proliferation of computer technology and literacy in regions like Eastern Europe. The talk is based on Švelch’s chapter from the book Abstractions and Embodiments: New Histories of Computing and Society, edited by Janet Abbate and Stephanie Dick.
+</details>
 
-#### April 1, 2025, from 2:30PM to 5PM
 
-**From the Pascaline to the Computer: Contribution to a Contextualized Approach to the Mechanization of Calculation**
+<details markdown="1">
+  <summary markdown="span">
+  April 1, 2025 - <strong>Marie-José Durand-Richard</strong> - From the Pascaline to the Computer: Contribution to a Contextualized Approach to the Mechanization of Calculation
+  </summary>
+  
 - [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - Paris 8 Vincennes Saint-Denis, SPHERE
 - Discutant : [Loïc Petitgirard](https://technique-societe.cnam.fr/petitgirard-loic-630656.kjsp) - CNAM,HT2S
 
@@ -53,38 +79,56 @@ Session co-organized with the _[History of Computing Seminar at the Musée des A
 
   > Numerous instruments and machines, often developed on the fringes of the academic world, have marked the mechanization of calculation up to the computer. Both their design and manufacturing involved many other actors besides mathematicians alone: artisans, engineers, and physicists. Moreover, these collective research efforts had to generate sufficient socio-political interest to secure funding. The transfers and syntheses of knowledge required for this materialization of calculation go hand in hand with a growing complexity in the professional relationships among these different categories of actors. I propose to analyze this evolution through certain significant examples – including Blaise Pascal’s machine (1623-1662), Charles Babbage’s analytical engine (1791-1871), Vannevar Bush’s differential analyzer (1890-1974), and the first computer prototypes.
 
-#### January 27, 2024, from 3 PM to 5 PM 
+</details>
 
-**Neural Networks: A 100 Years of Technologized Neurophysiology**
+<details markdown="1">
+  <summary markdown="span">
+  January 27, 2024 - <strong>Théo Lepage-Richer and Ranjodh Singh Dhaliwal</strong> - Neural Networks: A 100 Years of Technologized Neurophysiology
+  </summary>
+  
 - [Théo Lepage-Richer](https://www.utm.utoronto.ca/iccit/people/theo-lepage-richer), University of Toronto (Canada) and [Ranjodh Singh Dhaliwal](https://ranjodhdhaliwal.com/), University of Basel (Switzerland)
 - Discussant: [Valentin Goujon](https://medialab.sciencespo.fr/equipe/valentin-goujon/) - Sciences Po medialab (France)
 
 > While currently known as a biologically inspired, statistical approach to artificial intelligence, neural networks were first introduced as a neuroanatomical and, later, psychiatric approach to racial and pathological difference. Materialized through practices as varied as silver staining and colonial health policies, brain lacerations and electroshock therapy, and ultimately the software implementation of simulated neurons, neural networks were directly inscribed onto certain bodies to produce a recognition of who—or what—qualifies as an intelligent subject and who doesn’t. In this talk, Ranjodh Singh Dhaliwal and Théo Lepage-Richer revisit five key moments in that model’s history to reconstruct some of the situated practices, social histories, mediating techniques, and ontological assumptions that informed the machine learning model known as neural networks. Far from signaling the ultimate convergence of human and machine intelligence, neural networks highlight the technologization of neurophysiology that characterizes virtually all strands of neuroscientific and AI research of the past century. Taking this traffic as its starting point, this talk explores how cognition came to be constructed as essentially computational in nature, to the point of underwriting a technologized view of human biology, psychology, and sociability. 
+</details>
 
-#### December 16, 2024, from 3 PM to 5 PM 
-_The present is boring, but the future is bright?! A transnational history of the introduction of computers in education since the 1960s_
+
+<details markdown="1">
+  <summary markdown="span">
+  December 16, 2024 - <strong>Barbara Hof</strong> - The present is boring, but the future is bright?! A transnational history of the introduction of computers in education since the 1960s
+  </summary>
+  
 - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof) - University of Lausanne (Switzerland)
 - Discussant: [Ronan Le Roux](https://lis.u-pec.fr/membres/membres-titulaires/le-roux-ronan) - Université Paris-Est Créteil, INSPE (France)
 
 > The arrival of new technologies in education has always been shaped by contradictory visions. On the one hand, technologies stoked fears of a loss of competence and the restriction of learners through behaviorist teaching systems; on the other hand, technologies were praised as a means of acquiring skills more quickly through greater individuality. The turbulent history of the slow introduction of computers in schools since the 1960s clearly demonstrates this.
 As a contribution to the research seminar, this talk will address how the use of computers in education has been repeatedly touted as a breakthrough and reformer of education systems in many countries, while there has always been a mismatch between imaginaries and reality. Of particular interest are the economic and political conditions surrounding this development, as well as some of the key transnational and local actors, and the intermediaries connecting them.
 Examining expectations of educational technologies helps to uncover some of the underlying assumptions that drive innovation. The talk is based on the author’s contribution to a forthcoming book chapter that will add a historical perspective to the growing critical literature questioning the futurism inherent in digital educational media.
+</details>
 
-#### October 14, 2024, from 3 PM to 5 PM
-_A "Sovereign Intelligence"? Infrastructures, Representations, and Geopolitics of Russian AI: A Comparative Approach_
+
+<details markdown="1">
+  <summary markdown="span">
+  October 14, 2024 - <strong>Ksenia Ermoshina</strong>
+  </summary>
+  
 - [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/) and [Boris Melnichenko](https://cis.cnrs.fr/en/boris_melnichenko/) - CNRS, Centre Internet et Société (France)
 - Discussant: [Benjamin Bürbaumer](https://www.centreemiledurkheim.fr/notre-equipe/benjamin-burbaumer/) - Sciences Po Bordeaux (France)
 
 > As part of the ANR CulturIA project, this investigation focuses on the contemporary history of artificial intelligence and its socio-cultural aspects, particularly within the Russian-speaking world and its international relations. Marked by the war against Ukraine and economic sanctions, the field has undergone a restructuring both in terms of infrastructure and in terms of discourse and representations. The collective research, conducted in collaboration with Boris Melnichenko, follows Russians who create or use AI in exile as well as engineers working for large companies in Russia. In line with the spirit of Science and Technology Studies (STS), it remains attentive to code and infrastructure and describes the significant restructurings of technological projects in the context of a major geopolitical crisis. By comparing Russian machine learning and AI projects with similar initiatives from the United States and China, this research asks: can we speak of a "Russian AI"? Are there distinctive characteristics that define the ways of developing and discussing AI specific to Russia, despite the inevitable borrowing, influences, and transnational exchanges that shape this field?
-
-# 📍 Practical Information and Registration
-
-To attend the seminar, please **[register here](https://framaforms.org/inscription-seminaire-de-socio-histoire-de-linformatique-1725366317)**.
-
-The seminar will be held in hybrid at the Conservatoire National des Arts et Métiers, at **2 rue Conté, 75003 Paris**, in room 30-1-18 (building number 30, first basement, room 18). A connexion link wil be sent by email prior to the event to registered remote participants. 
+</details>
 
 
-# 💭 Our approach
+
+
+# Practical Information and Registration
+
+To attend the seminar, please **[register here](https://framaforms.org/inscription-seminaire-de-socio-histoire-de-linformatique-1757664332)**.
+
+The seminar will be held in hybrid at the Conservatoire National des Arts et Métiers, at **2 rue Conté, 75003 Paris**. The exact room and the connexion link wil be sent by email prior to the event to registered remote participants. 
+
+
+# Our approach
 
 Informatique, Informatiks, Informatics… The term, largely internationalized, is subject to semantic variations which reflect the different contexts of use of a very unstable field, having as a common denominator the transformation of information in systems. Whether they are logical and mechanical, industrial or artisanal, or even formal or social systems, this lability interests us. After all, don’t the “human calculators” who populated the banks and accounting offices of the 19th century participate with full rights in the history of computers? And if, to use a canon of Computing history, the computer has become "universal", are not computers and their process marked by local and specific dynamics, certainly relative but also questioning this universality?
 

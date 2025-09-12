@@ -13,7 +13,7 @@
 title: So-Hist-Info
 
 # Your name to show in the footer
-author: Some Person
+author: 
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -141,7 +141,7 @@ text-col: "#404040"
 link-col: "#c4042c"
 hover-col: "#0085A1"
 navbar-col: "#c4042c"
-navbar-text-col: "#404040"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"

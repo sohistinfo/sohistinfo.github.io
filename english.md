@@ -15,13 +15,13 @@ Below is a more detailed view of our approach.
 
 <details markdown="1">
   <summary markdown="span">
-  October 8 2025, 3 PM - 5 PM - <strong>Kevin Driscoll</strong>
+  October 8 2025, 3 PM - 5 PM - <strong>Kevin Driscoll</strong> - Small AI: Amateur participation in artificial intelligence of the 1980s
   </summary>
   
-- [Kevin Driscoll](https://kevindriscoll.info/) - Associate Professor, Department of Media Studies, University of Virginia
+- [Kevin Driscoll](https://kevindriscoll.info/) is the author of [The Modem World](https://modem.world/): A Prehistory of Social Media, co-author of Minitel: Welcome to the Internet, and maintainer of the [Minitel Research Lab](https://minitel.us), USA with Julien Mailland. He is an associate professor of media studies at the University of Virginia.
 
-> We bill announced soon
 
+> Today, artificial intelligence systems are portrayed as massive, remote, costly, and obscure. But there is nothing natural or inevitable about these characteristics. This talk will consider how microcomputer enthusiasts made sense of the 1980s artificial intelligence boom (and bust) through an exploration of hobbyist print media of the period. Beginning in the mid-1970s, an international literature of how-to books, magazine articles, and "type-in" programs promised to teach new computer owners the fundamental principles of AI through hands-on engagement with BASIC code. Recovering and re-running these materials with the help of software emulation reveals a different set of beliefs about technology and expertise than those that have come to dominate today's AI discourse. Glimpses of a "micro" AI invite us to imagine an alternative future in which AI is imminent, affordable, accessible, and comprehensible to expert and non-expert computer users alike.
 Location: 2 rue Conté, 75003, Paris - Room 30.-1.21
 </details>
 

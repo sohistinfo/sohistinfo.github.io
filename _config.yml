@@ -11,6 +11,7 @@
 
 # Name of website
 title: So-Hist-Info
+logo_url: "https://technique-societe.cnam.fr/le-laboratoire-550499.kjsp"
 
 # Your name to show in the footer
 author: 
@@ -26,7 +27,6 @@ navbar-links:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
-  logo_url: "https://technique-societe.cnam.fr/le-laboratoire-550499.kjsp"
 
 ################
 # --- Logo --- #

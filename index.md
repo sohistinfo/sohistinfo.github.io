@@ -113,7 +113,9 @@ Examining expectations of educational technologies helps to uncover some of the 
 
 Pour assister au séminaire, veuillez vous **[inscrire ici](https://framaforms.org/inscription-seminaire-de-socio-histoire-de-linformatique-1757664332)**. 
 
-Le seminaire se tiendra en hybride au Conservatoire National des Arts et Métiers, au **2 rue Conté, 75003 Paris**. La salle et le lien de connexion sera communiqué aux personnes inscrites avant la séance. 
+Le seminaire se tiendra en hybride au Conservatoire National des Arts et Métiers, au **2 rue Conté, 75003 Paris**. La salle est indiquée dans le desicrptif de chaque séance (voir ci-dessus). 
+Le lien de connexion est le suivant : https://webinaire.numerique.gouv.fr/meeting/signin/invite/39842/creator/3607/hash/a9114b91f2a5562ebf0d01309efd02715ea1f9e0. 
+
 
 # Approche
 

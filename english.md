@@ -15,6 +15,20 @@ Below is a more detailed view of our approach.
 
 <details markdown="1">
   <summary markdown="span">
+  December 15, 2025, 3 PM - 5 PM – <strong>Guillaume Carnino</strong> – Digital Technology and Automation: Industrialization, Grammatization, and Proletarianization of Work
+  </summary>
+  
+- [Guillaume Carnino](https://costech.utc.fr/membres/carnino-guillaume/) is an associate professor in the history of science and technology at the University of Technology of Compiègne (COSTECH) and a research fellow at the Centre Alexandre-Koyré. A specialist in the 19th century, he focuses on the epistemological and industrial foundations of technology; more broadly, as a contemporary historian, he studies the history of industrial quantification and computing, particularly that of data centers.
+
+> The recent wave of public deployment of generative artificial intelligences (GAIs) has revived the specter of a complete automation of certain activities, sometimes suggesting that human beings might be "replaced by machines." In reality—drawing on historiography and ethnography—the talk will show that digitalization, of which GAIs are merely the latest expression, continues the long process of industrialization. This process has never eliminated human labor but has continuously dissected, reorganized, and recomposed it—at the cost of losing control over technological systems that paradoxically aim to increase productivity.
+
+Location: 2 rue Conté, 75003 Paris – Room 30 -1 21
+
+</details>
+
+
+<details markdown="1">
+  <summary markdown="span">
   October 8 2025, 3 PM - 5 PM - <strong>Kevin Driscoll</strong> - Small AI: Amateur participation in artificial intelligence of the 1980s
   </summary>
   

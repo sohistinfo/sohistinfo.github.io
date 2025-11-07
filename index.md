@@ -11,6 +11,19 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 <details markdown="1">
   <summary markdown="span">
+  15 décembre 2025 de 15h à 17h - <strong>Guillaume Carnino</strong> - Numérique et automatisation : industrialisation, grammatisation et prolétarisation du travail
+  </summary>
+  
+- [Guillaume Carnino](https://costech.utc.fr/membres/carnino-guillaume/) est maître de conférences en histoire des sciences et techniques à l'Université de Technologie de Compiègne (COSTECH) et chercheur associé au Centre Alexandre-Koyré. Dix-neuviémiste, il s’intéresse aux fondements épistémologiques et industriels de la technologie ; plus largement contemporanéiste, il travaille sur l’histoire de la quantification industrielle et de l’informatique, notamment des datacenters.
+
+> La récente vague de déploiement grand public des intelligences artificielles génératives (IAg) a fait ressurgir le spectre d'une automatisation intégrale de certaines activités, au point de laisser parfois entendre que l'être humain risquerait d'être « remplacé par les machines ». En réalité, historiographie et ethnographie à l'appui, il s'agira de montrer que la numérisation, dont les IAg sont le dernier avatar, est une poursuite du processus d'industrialisation, qui n'a jamais fait disparaître le travail humain, mais n'a cessé de le disséquer, de le réorganiser et de le recomposer, au prix d'une perte de maîtrise de ces dispositifs technologiques visant paradoxalement l'accroissement de la productivité.
+
+Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 21
+
+</details>
+
+<details markdown="1">
+  <summary markdown="span">
   8 octobre 2025 15h-17h - <strong>Kevin Driscoll</strong> - Small AI: Amateur participation in artificial intelligence of the 1980s
   </summary>
   

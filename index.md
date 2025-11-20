@@ -83,7 +83,7 @@ Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 21
 
 <details markdown="1">
   <summary markdown="span">
-  14 Octobre 2024 - <strong>Ksenia Ermoshina et Boris Melnichenko</strong> - Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative
+  14 octobre 2024 - <strong>Ksenia Ermoshina et Boris Melnichenko</strong> - Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative
   </summary>
 
 - [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/) et [Boris Melnichenko](https://cis.cnrs.fr/en/boris_melnichenko/) - Centre Internet et Société, CNRS
@@ -94,7 +94,7 @@ Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 21
 
 <details markdown="1">
   <summary markdown="span">
-  16 Décembre 2024 - <strong>Barbara Hof</strong> - The present is boring, but the future is bright?! A transnational history of the introduction of computers in education since the 1960s
+  16 décembre 2024 - <strong>Barbara Hof</strong> - The present is boring, but the future is bright?! A transnational history of the introduction of computers in education since the 1960s
   </summary>
 
 - [Barbara Hof](https://www.researchgate.net/profile/Barbara-Hof) - University of Lausanne (Suisse)

@@ -9,18 +9,6 @@ Le **Séminaire de socio-histoire de l'informatique** est un séminaire de reche
 
 # 2025/2026
 
-<details markdown="1">
-  <summary markdown="span">
-  15 décembre 2025 de 15h à 17h - <strong>Guillaume Carnino</strong> - Numérique et automatisation : industrialisation, grammatisation et prolétarisation du travail
-  </summary>
-  
-- [Guillaume Carnino](https://costech.utc.fr/membres/carnino-guillaume/) est maître de conférences en histoire des sciences et techniques à l'Université de Technologie de Compiègne (COSTECH) et chercheur associé au Centre Alexandre-Koyré. Dix-neuviémiste, il s’intéresse aux fondements épistémologiques et industriels de la technologie ; plus largement contemporanéiste, il travaille sur l’histoire de la quantification industrielle et de l’informatique, notamment des datacenters.
-
-> La récente vague de déploiement grand public des intelligences artificielles génératives (IAg) a fait ressurgir le spectre d'une automatisation intégrale de certaines activités, au point de laisser parfois entendre que l'être humain risquerait d'être « remplacé par les machines ». En réalité, historiographie et ethnographie à l'appui, il s'agira de montrer que la numérisation, dont les IAg sont le dernier avatar, est une poursuite du processus d'industrialisation, qui n'a jamais fait disparaître le travail humain, mais n'a cessé de le disséquer, de le réorganiser et de le recomposer, au prix d'une perte de maîtrise de ces dispositifs technologiques visant paradoxalement l'accroissement de la productivité.
-
-Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 21
-
-</details>
 
 <details markdown="1">
   <summary markdown="span">
@@ -49,53 +37,59 @@ Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 24
 </details>
 
 
-# 2024/2025
-
 <details markdown="1">
-  <summary markdown="span"> 
-  16 juin 2025 - <strong>Cédric Neumann</strong> - Socio-histoire de la construction managériale de l’informatique en France
+  <summary markdown="span">
+  15 décembre 2025 de 15h à 17h - <strong>Guillaume Carnino</strong> - Numérique et automatisation : industrialisation, grammatisation et prolétarisation du travail
   </summary>
   
-- [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S
-- Discutant : [Pierre Labardin](https://iae.univ-larochelle.fr/liae-la-rochelle/organisation/) - La Rochelle Université
+- [Guillaume Carnino](https://costech.utc.fr/membres/carnino-guillaume/) est maître de conférences en histoire des sciences et techniques à l'Université de Technologie de Compiègne (COSTECH) et chercheur associé au Centre Alexandre-Koyré. Dix-neuviémiste, il s’intéresse aux fondements épistémologiques et industriels de la technologie ; plus largement contemporanéiste, il travaille sur l’histoire de la quantification industrielle et de l’informatique, notamment des datacenters.
 
-> La socio-histoire a été définie par G. Noiriel comme l’utilisation d’outils conceptuels de la sociologie dans les enquêtes historiques dans le but de dénaturaliser les relations de pouvoir en retraçant leur genèse et leurs origines occultées. L’omniprésence actuelle des outils numérique et la manière dont elle peut affecter des relations de pouvoir – entre l’Etat et les entreprises ou encore entre salariés par la redéfinition du travail par exemple – n’a été que peu l’objet d’une socio-histoire entendue au sens strict.  En effet, les recherches françaises de sciences sociales ont peu étudié la question du passage de la mécanographie à l’informatique. Cette ignorance de l’informatique qualifiée rétrospectivement de « lourde » a conduit réciproquement à accorder une importance réduite aux utilisations managériales de l’informatique qui se sont constituées dans les années 1960. En effet, d’une part, l’utilisation des ordinateurs dans des tâches de gestion a conduit à une extension de leur marché, d’autre part, à la fin des années 1950 et au début des années 1960, les ordinateurs ont d’abord été conçus comme de nouvelles machines mécanographiques, puis sont apparus comme un phénomène nouveau, « l’informatique », défini par des propriétés managériales opposés à celles de la mécanographie. Ce travail de définition a conduit à la création de nouvelles équivalences entre les machines et le management dont le produit, l’informatique telle qu’elle est entendue par des managers, naturalise des politiques managériales en les faisant dériver d’une nécessité technique. Ces équivalences constituent toujours le cadre d’appréhension actuel du numérique qui s’est donc construit dans les années 1960 autour du passage, dans le domaine de la gestion, des machines classiques (grands ensembles à cartes perforées, machines comptables) aux premiers ordinateurs. En m’appuyant sur mes recherches je voudrais donc montrer dans cette communication qu’une socio-histoire de l’informatique doit réévaluer l’importance du management dans la généralisation de l’informatique et dans l’émergence des utilisateurs individuels. En effet, dans ce cadre de recherches, l’oubli des origines du numérique conduit à sa réification. Cette réévaluation doit, par ailleurs, poser la question des modalités de circulation et d’intériorisation de ces thématiques managériales. Pour cela j’aborderai trois points qui me semblent importants dans une perspective de socio-histoire de l’information. D’abord, l’association des ordinateurs à une gouvernementalité différente des machines classiques de la mécanographie. C’est cette gouvernementalité basée, sur l’anticipation, la flexibilité, la souplesse et non la productivité qui est au fondement de la conception managériale de l’informatique. Ensuite, une analyse du rôle des SSII dans la mise en forme managériale de l’informatique afin de donner une perspective historique à l’externalisation informatique que des analyses en termes de capitalisme de plateforme tendent à effacer en se focalisant sur incarnation technologique plutôt que sur l’analyse des processus sociaux dans laquelle elle s’inscrit. Enfin, j’examinerai les interactions entre la construction managériale de l’informatique et sa construction disciplinaire. En effet, les milieux managériaux ont revendiqué une prise en charge de la formation des informaticiens par l’enseignement supérieur tout en critiquant les contenus universitaires de l’enseignement de l’informatique. Ainsi, durant les années 1970, la politique de formation à l’informatique a tenté sans succès d’imposer l’informatique de gestion comme domaine hégémonique de l’informatique.
-</details>
+> La récente vague de déploiement grand public des intelligences artificielles génératives (IAg) a fait ressurgir le spectre d'une automatisation intégrale de certaines activités, au point de laisser parfois entendre que l'être humain risquerait d'être « remplacé par les machines ». En réalité, historiographie et ethnographie à l'appui, il s'agira de montrer que la numérisation, dont les IAg sont le dernier avatar, est une poursuite du processus d'industrialisation, qui n'a jamais fait disparaître le travail humain, mais n'a cessé de le disséquer, de le réorganiser et de le recomposer, au prix d'une perte de maîtrise de ces dispositifs technologiques visant paradoxalement l'accroissement de la productivité.
 
+Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 21
 
-<details markdown="1">
-  <summary markdown="span"> 
-  14 avril 2025 - <strong>Jaroslav Švelch</strong> - Power to the clones: Hardware and software bricolage on the periphery
-  </summary>
-  
-- [Jaroslav Švelch](http://svelch.com/) - Charles University (Prague) 
-- Discutant : [Kévin Limonier](https://www.geopolitique.net/our_team/kevin-limonier/) - Université Paris-8 & Institut Français de Géopolitique
-
-> This talk will address the specifics of computing practices (both amateur and professional) in peripheral contexts. Its aim is to lift “clones”, “ports” and other “bastard” hardware and software artifacts from relative obscurity and derision up to the focus of the history of computing. I will approach the topic revisiting the classic concept of bricoleur, introduced by Lévi-Strauss as a counterpoint to engineer. Bricoleur makes do with the resources that are at hand, and that is one of the reasons why hobby computing and homebrew programming have played such important roles in peripheral contexts with limited access to resources and components, such as in the 1980s Soviet bloc. The chapter will use examples from 1980s Czechoslovakia, specifically the local efforts to design and build first mainframes and then microcomputers without using any unavailable Western-manufactured components, or the clones and conversions of Western games for domestic or domestically available hardware. I will argue that clones required considerable ingenuity and effort to make, and that they have made important contributions to the proliferation of computer technology and literacy in regions like Eastern Europe. The talk is based on Švelch’s chapter from the book Abstractions and Embodiments: New Histories of Computing and Society, edited by Janet Abbate and Stephanie Dick.
-</details>
-
-<details markdown="1">
-  <summary markdown="span"> 
-  1er avril 2025 - <strong>Marie-José Durand-Richard</strong> - De la Pascaline à l'ordinateur : contribution à une approche contextualisée de la mécanisation du calcul 
-  </summary>
-  
-- [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - Paris 8 Vincennes Saint-Denis, SPHERE
-- Discutant : [Loïc Petitgirard](https://technique-societe.cnam.fr/petitgirard-loic-630656.kjsp) - CNAM,HT2S
-
-Séance co-organisée avec le [Séminaire d'Histoire d'Informatique du Musée des Arts et Métiers](https://museeinfo.cnam.fr/seminaires/). 
-
-  > De nombreux instruments et machines, souvent élaborés en marge du milieu académique, ont jalonné la mécanisation du calcul jusqu'à l'ordinateur. Aussi bien leur conception que leur fabrication ont mobilisé bien d'autres acteurs que les seuls mathématiciens : artisans, ingénieurs, physiciens. Et ces recherches collectives ont dû susciter un intérêt socio-politique suffisant pour décider de leur financement. Les transferts et synthèses de savoirs que suppose cette matérialisation du calcul va de pair avec une complexification des rapports professionnels entre ces différentes catégories d'acteurs. Je me propose d'en analyser l'évolution à partir de certains exemples significatifs – dont la machine de Blaise Pascal (1623-1662), la machine analytique de Charles Babbage (1791-1871), l'analyseur différentiel de Vannevar Bush (1890-1974), et les premiers prototypes d'ordinateur.
 </details>
 
 <details markdown="1">
   <summary markdown="span">
-  27 janvier 2024 - <strong>Théo Lepage-Richer et Ranjodh Singh Dhaliwal</strong> - Les réseaux de neurones : 100 ans de neurophysiologie technologisée
+  16 février 2025 de 15h à 17h - <strong>Information à venir</strong> 
+  </summary>
+</details>
+
+<details markdown="1">
+  <summary markdown="span">
+  10 mars 2025 de 15h à 17h - <strong>Nadja Gaudillière-Jami</strong> - Information à venir
+  </summary>
+</details>
+
+<details markdown="1">
+  <summary markdown="span">
+  13 avril 2025 de 15h à 17h - <strong>Anna Katharina Osterlow</strong> - Information à venir
+  </summary>
+</details>
+
+<details markdown="1">
+  <summary markdown="span">
+  13 avril 2025 de 15h à 17h - <strong>Amelie Mittlmeier</strong> - Information à venir
+  </summary>
+</details>
+
+
+
+
+
+
+# 2024/2025
+
+<details markdown="1">
+  <summary markdown="span">
+  14 Octobre 2024 - <strong>Ksenia Ermoshina et Boris Melnichenko</strong> - Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative
   </summary>
 
-- [Théo Lepage-Richer](https://www.utm.utoronto.ca/iccit/people/theo-lepage-richer), Université de Toronto (Canada) et [Ranjodh Singh Dhaliwal](https://ranjodhdhaliwal.com/), Université de Basel (Suisse)
-- Discutant: [Valentin Goujon](https://medialab.sciencespo.fr/equipe/valentin-goujon/) - médialab Sciences Po 
+- [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/) et [Boris Melnichenko](https://cis.cnrs.fr/en/boris_melnichenko/) - Centre Internet et Société, CNRS
+- Discutant : [Benjamin Bürbaumer](https://www.centreemiledurkheim.fr/notre-equipe/benjamin-burbaumer/) - Sciences Po Bordeaux
 
-> Bien qu’actuellement connus comme une approche statistique à l’intelligence artificielle inspirée par la biologie, les réseaux de neurones ont tout d’abord été introduits comme un modèle neuroanatomique, puis psychiatrique, visant à expliquer la différence raciale et pathologique. Matérialisés à travers des pratiques aussi variées que la coloration argentique et les politiques sanitaires coloniales, les interventions psychochirurgicales et l’électrothérapie, et finalement la simulation de neurones artificiels, les réseaux de neurones ont été expérimentalement inscrits sur certains corps afin d’établir qui—ou quoi—se qualifie comme un sujet intelligent. Dans cette présentation, Ranjodh Singh Dhaliwal et Théo Lepage-Richer revisitent cinq moments clés de l’histoire de ce modèle pour reconstruire certaines des pratiques situées, des histoires sociales, des techniques de médiation et des présupposés ontologiques qui ont influencé la transformation récente des réseaux de neurones en modèle d’apprentissage automatique. Loin de signaler la convergence de l’intelligence humaine et de l’intelligence machine, les réseaux de neurones mettent en évidence la technologisation de la neurophysiologie qui caractérise la recherche dans les champs de la neuroscience et de l’intelligence artificielle depuis plus d’un siècle. En prenant la proximité historique entre ces disciplines comme point de départ, cette présentation relate la façon dont la cognition en est venue à être conçue comme essentiellement computationnelle par nature, au point de soutenir une vision technologisée de la biologie, de la psychologie et de la sociabilité humaines.
+> Dans le cadre du projet ANR CulturIA, cette enquête porte sur l'histoire contemporaine de l'intelligence artificielle et ses aspects socio-culturels, notamment dans le monde russophone et ses rapports à l'international. Marqué par la guerre contre l'Ukraine et les sanctions économiques, le domaine a connu une restructuration à la fois au niveau des infrastructures mais aussi au niveau des discours et représentations. L'enquête collective menée en collaboration avec Boris Melnichenko suit les russes qui créent ou utilisent les IA en exil mais aussi les ingénieurs qui travaillent pour les grandes entreprises en Russie. Dans l'esprit des STS, elle reste attentive au code et aux infrastructures et décrit les restructurations importantes des projets technologiques dans le contexte de crise géopolitique majeure. Comparant les projets en machine-learning et IA russes avec, notamment, des projets similaires issus des Etats-Unis et de la Chine, cette recherche se pose la question : peut-on parler d'une "IA à la russe" ? Existe-il des traits caractéristiques pouvant définir les façons de faire et de parler de l'IA propres à la Russie, malgré les emprunts, influences et circulations transnationales inévitables qui marquent ce domaine ?
 </details>
 
 <details markdown="1">
@@ -113,14 +107,59 @@ Examining expectations of educational technologies helps to uncover some of the 
 
 <details markdown="1">
   <summary markdown="span">
-  14 Octobre 2024 - <strong>Ksenia Ermoshina et Boris Melnichenko</strong> - Une "Intelligence souveraine" ? Infrastructures, représentations et géopolitique de l'IA russe, une approche comparative
+  27 janvier 2024 - <strong>Théo Lepage-Richer et Ranjodh Singh Dhaliwal</strong> - Les réseaux de neurones : 100 ans de neurophysiologie technologisée
   </summary>
 
-- [Ksenia Ermoshina](https://cis.cnrs.fr/en/ksenia_ermoshina/) et [Boris Melnichenko](https://cis.cnrs.fr/en/boris_melnichenko/) - Centre Internet et Société, CNRS
-- Discutant : [Benjamin Bürbaumer](https://www.centreemiledurkheim.fr/notre-equipe/benjamin-burbaumer/) - Sciences Po Bordeaux
+- [Théo Lepage-Richer](https://www.utm.utoronto.ca/iccit/people/theo-lepage-richer), Université de Toronto (Canada) et [Ranjodh Singh Dhaliwal](https://ranjodhdhaliwal.com/), Université de Basel (Suisse)
+- Discutant: [Valentin Goujon](https://medialab.sciencespo.fr/equipe/valentin-goujon/) - médialab Sciences Po 
 
-> Dans le cadre du projet ANR CulturIA, cette enquête porte sur l'histoire contemporaine de l'intelligence artificielle et ses aspects socio-culturels, notamment dans le monde russophone et ses rapports à l'international. Marqué par la guerre contre l'Ukraine et les sanctions économiques, le domaine a connu une restructuration à la fois au niveau des infrastructures mais aussi au niveau des discours et représentations. L'enquête collective menée en collaboration avec Boris Melnichenko suit les russes qui créent ou utilisent les IA en exil mais aussi les ingénieurs qui travaillent pour les grandes entreprises en Russie. Dans l'esprit des STS, elle reste attentive au code et aux infrastructures et décrit les restructurations importantes des projets technologiques dans le contexte de crise géopolitique majeure. Comparant les projets en machine-learning et IA russes avec, notamment, des projets similaires issus des Etats-Unis et de la Chine, cette recherche se pose la question : peut-on parler d'une "IA à la russe" ? Existe-il des traits caractéristiques pouvant définir les façons de faire et de parler de l'IA propres à la Russie, malgré les emprunts, influences et circulations transnationales inévitables qui marquent ce domaine ?
+> Bien qu’actuellement connus comme une approche statistique à l’intelligence artificielle inspirée par la biologie, les réseaux de neurones ont tout d’abord été introduits comme un modèle neuroanatomique, puis psychiatrique, visant à expliquer la différence raciale et pathologique. Matérialisés à travers des pratiques aussi variées que la coloration argentique et les politiques sanitaires coloniales, les interventions psychochirurgicales et l’électrothérapie, et finalement la simulation de neurones artificiels, les réseaux de neurones ont été expérimentalement inscrits sur certains corps afin d’établir qui—ou quoi—se qualifie comme un sujet intelligent. Dans cette présentation, Ranjodh Singh Dhaliwal et Théo Lepage-Richer revisitent cinq moments clés de l’histoire de ce modèle pour reconstruire certaines des pratiques situées, des histoires sociales, des techniques de médiation et des présupposés ontologiques qui ont influencé la transformation récente des réseaux de neurones en modèle d’apprentissage automatique. Loin de signaler la convergence de l’intelligence humaine et de l’intelligence machine, les réseaux de neurones mettent en évidence la technologisation de la neurophysiologie qui caractérise la recherche dans les champs de la neuroscience et de l’intelligence artificielle depuis plus d’un siècle. En prenant la proximité historique entre ces disciplines comme point de départ, cette présentation relate la façon dont la cognition en est venue à être conçue comme essentiellement computationnelle par nature, au point de soutenir une vision technologisée de la biologie, de la psychologie et de la sociabilité humaines.
 </details>
+
+<details markdown="1">
+  <summary markdown="span"> 
+  1er avril 2025 - <strong>Marie-José Durand-Richard</strong> - De la Pascaline à l'ordinateur : contribution à une approche contextualisée de la mécanisation du calcul 
+  </summary>
+  
+- [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - Paris 8 Vincennes Saint-Denis, SPHERE
+- Discutant : [Loïc Petitgirard](https://technique-societe.cnam.fr/petitgirard-loic-630656.kjsp) - CNAM,HT2S
+
+Séance co-organisée avec le [Séminaire d'Histoire d'Informatique du Musée des Arts et Métiers](https://museeinfo.cnam.fr/seminaires/). 
+
+  > De nombreux instruments et machines, souvent élaborés en marge du milieu académique, ont jalonné la mécanisation du calcul jusqu'à l'ordinateur. Aussi bien leur conception que leur fabrication ont mobilisé bien d'autres acteurs que les seuls mathématiciens : artisans, ingénieurs, physiciens. Et ces recherches collectives ont dû susciter un intérêt socio-politique suffisant pour décider de leur financement. Les transferts et synthèses de savoirs que suppose cette matérialisation du calcul va de pair avec une complexification des rapports professionnels entre ces différentes catégories d'acteurs. Je me propose d'en analyser l'évolution à partir de certains exemples significatifs – dont la machine de Blaise Pascal (1623-1662), la machine analytique de Charles Babbage (1791-1871), l'analyseur différentiel de Vannevar Bush (1890-1974), et les premiers prototypes d'ordinateur.
+</details>
+
+<details markdown="1">
+  <summary markdown="span"> 
+  14 avril 2025 - <strong>Jaroslav Švelch</strong> - Power to the clones: Hardware and software bricolage on the periphery
+  </summary>
+  
+- [Jaroslav Švelch](http://svelch.com/) - Charles University (Prague) 
+- Discutant : [Kévin Limonier](https://www.geopolitique.net/our_team/kevin-limonier/) - Université Paris-8 & Institut Français de Géopolitique
+
+> This talk will address the specifics of computing practices (both amateur and professional) in peripheral contexts. Its aim is to lift “clones”, “ports” and other “bastard” hardware and software artifacts from relative obscurity and derision up to the focus of the history of computing. I will approach the topic revisiting the classic concept of bricoleur, introduced by Lévi-Strauss as a counterpoint to engineer. Bricoleur makes do with the resources that are at hand, and that is one of the reasons why hobby computing and homebrew programming have played such important roles in peripheral contexts with limited access to resources and components, such as in the 1980s Soviet bloc. The chapter will use examples from 1980s Czechoslovakia, specifically the local efforts to design and build first mainframes and then microcomputers without using any unavailable Western-manufactured components, or the clones and conversions of Western games for domestic or domestically available hardware. I will argue that clones required considerable ingenuity and effort to make, and that they have made important contributions to the proliferation of computer technology and literacy in regions like Eastern Europe. The talk is based on Švelch’s chapter from the book Abstractions and Embodiments: New Histories of Computing and Society, edited by Janet Abbate and Stephanie Dick.
+</details>
+
+
+<details markdown="1">
+  <summary markdown="span"> 
+  16 juin 2025 - <strong>Cédric Neumann</strong> - Socio-histoire de la construction managériale de l’informatique en France
+  </summary>
+  
+- [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S
+- Discutant : [Pierre Labardin](https://iae.univ-larochelle.fr/liae-la-rochelle/organisation/) - La Rochelle Université
+
+> La socio-histoire a été définie par G. Noiriel comme l’utilisation d’outils conceptuels de la sociologie dans les enquêtes historiques dans le but de dénaturaliser les relations de pouvoir en retraçant leur genèse et leurs origines occultées. L’omniprésence actuelle des outils numérique et la manière dont elle peut affecter des relations de pouvoir – entre l’Etat et les entreprises ou encore entre salariés par la redéfinition du travail par exemple – n’a été que peu l’objet d’une socio-histoire entendue au sens strict.  En effet, les recherches françaises de sciences sociales ont peu étudié la question du passage de la mécanographie à l’informatique. Cette ignorance de l’informatique qualifiée rétrospectivement de « lourde » a conduit réciproquement à accorder une importance réduite aux utilisations managériales de l’informatique qui se sont constituées dans les années 1960. En effet, d’une part, l’utilisation des ordinateurs dans des tâches de gestion a conduit à une extension de leur marché, d’autre part, à la fin des années 1950 et au début des années 1960, les ordinateurs ont d’abord été conçus comme de nouvelles machines mécanographiques, puis sont apparus comme un phénomène nouveau, « l’informatique », défini par des propriétés managériales opposés à celles de la mécanographie. Ce travail de définition a conduit à la création de nouvelles équivalences entre les machines et le management dont le produit, l’informatique telle qu’elle est entendue par des managers, naturalise des politiques managériales en les faisant dériver d’une nécessité technique. Ces équivalences constituent toujours le cadre d’appréhension actuel du numérique qui s’est donc construit dans les années 1960 autour du passage, dans le domaine de la gestion, des machines classiques (grands ensembles à cartes perforées, machines comptables) aux premiers ordinateurs. En m’appuyant sur mes recherches je voudrais donc montrer dans cette communication qu’une socio-histoire de l’informatique doit réévaluer l’importance du management dans la généralisation de l’informatique et dans l’émergence des utilisateurs individuels. En effet, dans ce cadre de recherches, l’oubli des origines du numérique conduit à sa réification. Cette réévaluation doit, par ailleurs, poser la question des modalités de circulation et d’intériorisation de ces thématiques managériales. Pour cela j’aborderai trois points qui me semblent importants dans une perspective de socio-histoire de l’information. D’abord, l’association des ordinateurs à une gouvernementalité différente des machines classiques de la mécanographie. C’est cette gouvernementalité basée, sur l’anticipation, la flexibilité, la souplesse et non la productivité qui est au fondement de la conception managériale de l’informatique. Ensuite, une analyse du rôle des SSII dans la mise en forme managériale de l’informatique afin de donner une perspective historique à l’externalisation informatique que des analyses en termes de capitalisme de plateforme tendent à effacer en se focalisant sur incarnation technologique plutôt que sur l’analyse des processus sociaux dans laquelle elle s’inscrit. Enfin, j’examinerai les interactions entre la construction managériale de l’informatique et sa construction disciplinaire. En effet, les milieux managériaux ont revendiqué une prise en charge de la formation des informaticiens par l’enseignement supérieur tout en critiquant les contenus universitaires de l’enseignement de l’informatique. Ainsi, durant les années 1970, la politique de formation à l’informatique a tenté sans succès d’imposer l’informatique de gestion comme domaine hégémonique de l’informatique.
+</details>
+
+
+
+
+
+
+
+
+
 
 # Informations pratiques et inscription
 

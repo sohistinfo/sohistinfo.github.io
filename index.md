@@ -52,25 +52,25 @@ Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 21
 
 <details markdown="1">
   <summary markdown="span">
-  16 février 2025 de 15h à 17h - <strong>Information à venir</strong> 
+  16 février 2026 de 15h à 17h - <strong>Information à venir</strong> 
   </summary>
 </details>
 
 <details markdown="1">
   <summary markdown="span">
-  10 mars 2025 de 15h à 17h - <strong>Nadja Gaudillière-Jami</strong> - Information à venir
+  10 mars 2026 de 15h à 17h - <strong>Nadja Gaudillière-Jami</strong> - Information à venir
   </summary>
 </details>
 
 <details markdown="1">
   <summary markdown="span">
-  13 avril 2025 de 15h à 17h - <strong>Anna Katharina Osterlow</strong> - Information à venir
+  13 avril 2026 de 15h à 17h - <strong>Anna Katharina Osterlow</strong> - Information à venir
   </summary>
 </details>
 
 <details markdown="1">
   <summary markdown="span">
-  13 avril 2025 de 15h à 17h - <strong>Amelie Mittlmeier</strong> - Information à venir
+  13 avril 2026 de 15h à 17h - <strong>Amelie Mittlmeier</strong> - Information à venir
   </summary>
 </details>
 

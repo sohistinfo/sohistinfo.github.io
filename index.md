@@ -70,7 +70,7 @@ Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 21
 
 <details markdown="1">
   <summary markdown="span">
-  13 avril 2026 de 15h à 17h - <strong>Amelie Mittlmeier</strong> - Information à venir
+  15 juin 2026 de 15h à 17h - <strong>Amelie Mittlmeier</strong> - Information à venir
   </summary>
 </details>
 

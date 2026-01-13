@@ -52,6 +52,36 @@ Location: 2 rue Conté, 75003, Paris - Room 30.-1.21
 Location: 2 rue Conté, 75003, Paris - Room 30.-1.24
 </details>
 
+<details markdown="1">
+  <summary markdown="span">
+  February 16 2026, 3PM - 5PM - <strong>Christophe Lécuyer - Details to follow</strong> 
+  </summary>
+
+- [Christophe Lécuyer](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P917) is a researcher and professor of the history of science and technology at Pierre and Marie Curie University, affiliated with the LIP6 laboratory. His research focuses on the history of innovation, the history of computing, the history of high technologies, and the relationship between computing and the environment.
+
+> Details to follow
+  
+</details>
+
+
+<details markdown="1">
+  <summary markdown="span">
+  March 10 2026, 3PM - 5PM - <strong>Nadja Gaudillière-Jami</strong> - Details to follow
+  </summary>
+</details>
+
+<details markdown="1">
+  <summary markdown="span">
+  April 13 2026, 3PM - 5PM - <strong>Anna Katharina Osterlow</strong> - Details to follow
+  </summary>
+</details>
+
+<details markdown="1">
+  <summary markdown="span">
+  June 15 2026, 3PM - 5PM - <strong>Amelie Mittlmeier</strong> - Details to follow
+  </summary>
+</details>
+
 # 2024/2025
 
 <details markdown="1">

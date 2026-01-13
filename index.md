@@ -52,9 +52,16 @@ Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 21
 
 <details markdown="1">
   <summary markdown="span">
-  16 février 2026 de 15h à 17h - <strong>Information à venir</strong> 
+  16 février 2026 de 15h à 17h - <strong>Christophe Lécuyer - Informations à venir</strong> 
   </summary>
+
+- [Christophe Lécuyer](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P917) est chercheur et professeur d'histoire des sciences et des techniques à l'Université Pierre et Marie Curie, affilié au laboratoire LIP6. Ses travaux de recherche portent sur l'histoire de l'innovation, l'histoire de l'informatique, l'histoire des hautes technologies, et sur le lien entre informatique et environnement.
+
+> Informations à venir
+  
 </details>
+
+
 
 <details markdown="1">
   <summary markdown="span">

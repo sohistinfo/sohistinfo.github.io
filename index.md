@@ -52,12 +52,14 @@ Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 21
 
 <details markdown="1">
   <summary markdown="span">
-  16 février 2026 de 15h à 17h - <strong>Christophe Lécuyer - Informations à venir</strong> 
+  16 février 2026 de 15h à 17h - <strong>Christophe Lécuyer</strong>  - Pourquoi la Silicon Valley n’a-t-elle pas été syndicalisée ?
   </summary>
 
 - [Christophe Lécuyer](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P917) est chercheur et professeur d'histoire des sciences et des techniques à l'Université Pierre et Marie Curie, affilié au laboratoire LIP6. Ses travaux de recherche portent sur l'histoire de l'innovation, l'histoire de l'informatique, l'histoire des hautes technologies, et sur le lien entre informatique et environnement.
 
-> Informations à venir
+> La présence des syndicats dans la Silicon Valley, le plus grand centre d’innovation dans les techniques numériques, est minime actuellement. Mais tel n’a pas toujours été le cas. Du début des années 1960 au début des années 1980, de nombreux syndicats comme IAM, IUE, IBEW et les Teamsters tentent de syndicaliser les entreprises de la région. L'United Electrical Workers, un syndicat de gauche, et des groupes maoïstes convergent également sur les usines produisant semi-conducteurs et cartouches de jeux vidéo. À la fin des années 1970, en collaboration avec le Santa Clara Center for Occupational Safety and Health (SCCOSH), le parti communiste orchestre une campagne de syndicalisation dénonçant les dangers chimiques dans les usines d’électronique. Les directions des entreprises d’informatique et de microélectronique déjouent ces tentatives de syndicalisation en violant les règles fédérales relatives à l'activité syndicale, en alignant salaires et avantages sociaux sur ceux des entreprises syndiquées et en améliorant la sécurité de leurs usines. À la suite de ces défaites répétées, les syndicats, qui connaissent une grave crise aux États-Unis à partir du début des années 1980, abandonnent tout effort de syndicalisation dans la Silicon Valley. À l’exception de brèves tentatives au début des années 1990, ils s’en désintéresseront pendant les quatre décennies suivantes.
+
+Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 28
   
 </details>
 

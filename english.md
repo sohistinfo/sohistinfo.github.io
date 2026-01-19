@@ -54,12 +54,12 @@ Location: 2 rue Conté, 75003, Paris - Room 30.-1.24
 
 <details markdown="1">
   <summary markdown="span">
-  February 16 2026, 3PM - 5PM - <strong>Christophe Lécuyer - Details to follow</strong> 
+  February 16 2026, 3PM - 5PM - <strong>Christophe Lécuyer</strong> - Why was Silicon Valley not unionized?
   </summary>
 
 - [Christophe Lécuyer](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P917) is a researcher and professor of the history of science and technology at Pierre and Marie Curie University, affiliated with the LIP6 laboratory. His research focuses on the history of innovation, the history of computing, the history of high technologies, and the relationship between computing and the environment.
 
-> Details to follow
+> The presence of labor unions in Silicon Valley, the largest center of innovation in digital technologies, is currently minimal. But this was not always the case. From the early 1960s to the early 1980s, many unions such as the IAM, IUE, IBEW, and the Teamsters attempted to unionize companies in the region. The United Electrical Workers, a left-wing union, and Maoist groups also focused on factories producing semiconductors and video game cartridges.In the late 1970s, in collaboration with the Santa Clara Center for Occupational Safety and Health (SCCOSH), the Communist Party orchestrated a unionization campaign denouncing chemical hazards in electronics factories. Management in the computer and microelectronics companies thwarted these unionization efforts by violating federal rules governing union activity, matching the wages and benefits of unionized firms, and improving factory safety. Following these repeated defeats, and amid a severe crisis affecting unions in the United States beginning in the early 1980s, unions abandoned all efforts to organize Silicon Valley. With the exception of brief attempts in the early 1990s, they would remain disengaged for the next four decades.
   
 </details>
 

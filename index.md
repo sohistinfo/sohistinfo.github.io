@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Séminaire de Socio-Histoire de l'Informatique
-subtitle:  
+title: Socio-Histoire de l'Informatique
+subtitle: Séminaire proposé par le Cnam et l'UT Compiègne 
 ---
 
 

@@ -6,9 +6,9 @@ subtitle: Un séminaire proposé par le laboratoire HT2S du CNAM
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 60px; margin-bottom: 30px;">
-  <img src="/assets/img/CNAM_Logo.png" alt="Logo 1" style="height:60px;">
-  <img src="/assets/img/UTC_Logo.png" alt="Logo 2" style="height:60px;">
-  <img src="/assets/img/IRHIST_Logo.png" alt="Logo 3" style="height:60px;">
+  <img src="/assets/img/CNAM_Logo.png" alt="Logo 1" style="height:50px;">
+  <img src="/assets/img/UTC_Logo.png" alt="Logo 2" style="height:50px;">
+  <img src="/assets/img/IRHIST_Logo.png" alt="Logo 3" style="height:50px;">
 </div>
 
 

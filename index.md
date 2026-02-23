@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Séminaire de Socio-Histoire de l'Informatique
+subtitle:  
 ---
 
 

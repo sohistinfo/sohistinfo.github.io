@@ -7,7 +7,7 @@ subtitle: Un séminaire proposé par le laboratoire HT2S du CNAM
 <div style="display: flex; justify-content: center; align-items: center; gap: 40px; margin-bottom: 30px;">
   <img src="/assets/img/CNAM_Logo.png" alt="Logo 1" style="height:80px;">
   <img src="/assets/img/UTC_Logo.png" alt="Logo 2" style="height:80px;">
-  <img src="/assets/img/IRHIST.png" alt="Logo 3" style="height:80px;">
+  <img src="/assets/img/IRHIST_Logo.png" alt="Logo 3" style="height:80px;">
 </div>
 
 

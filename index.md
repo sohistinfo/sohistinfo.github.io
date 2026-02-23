@@ -220,9 +220,9 @@ Pour finir, ce séminaire prendra soin de favoriser une ouverture interdisciplin
 
 **Le séminaire est organisé par (ordre alphabétique) :**
 - Léandre Bécard - Université de technologie de Compiègne, COSTECH
-- [Mathilde Fichen](mathfichen@github.io)
-- [Camille Paloque-Bergès](https://technique-societe.cnam.fr/camille-paloque-berges--836902.kjsp#/)
-- [Adrien Tournier](https://technique-societe.cnam.fr/adrien-tournier--1455493.kjsp#/)
+- [Mathilde Fichen](mathfichen@github.io) - Conservatoire National des Arts et Métiers, HT2S
+- [Camille Paloque-Bergès](https://technique-societe.cnam.fr/camille-paloque-berges--836902.kjsp#/) - Conservatoire National des Arts et Métiers, HT2S
+- [Adrien Tournier](https://technique-societe.cnam.fr/adrien-tournier--1455493.kjsp#/) - Conservatoire National des Arts et Métiers, HT2S
 
 **Vous pouvez nous contacter sur nos adresses email :**
 - leandre.becard [@] ehess.fr

@@ -4,7 +4,7 @@ title: Socio-Histoire de l'Informatique
 subtitle: Séminaire proposé par le Cnam et l'UT Compiègne 
 ---
 
-<! ---
+<! --
 <div style="display: flex; justify-content: center; align-items: center; gap: 60px; margin-bottom: 30px;">
 
   <a href="https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp" target="_blank" rel="noopener noreferrer">
@@ -20,7 +20,7 @@ subtitle: Séminaire proposé par le Cnam et l'UT Compiègne
   </a>
 
 </div>
---->
+-->
 
 
 Le **Séminaire de socio-histoire de l'informatique** est un séminaire de recherche organisé par les centres de recherches [HT2S du Conservatoire National des Arts et Métiers](https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp), en partenariat avec l'iniative [iRHIST](https://irhist.sorbonne-universite.fr/en) de l'alliance Sorbonne Université. Tous les deux mois, nous invitons un.e chercheur.se en histoire et/ou anthropologie et sociologie (avec une perspective historique ou diachronique) de l’informatique à présenter ses travaux. Le séminaire a pour objectif d’explorer de nouveaux récits de l’histoire de l’informatique sur le temps long, en mettant l’accent sur la manière dont l’informatique s’entrelace avec les questions sociales, économiques, politiques et culturelles. Vous trouverez ci-dessous une vue plus détaillée de notre approche.

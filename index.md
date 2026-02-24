@@ -4,7 +4,7 @@ title: Socio-Histoire de l'Informatique
 subtitle: Séminaire proposé par le Cnam et l'UT Compiègne 
 ---
 
-<! --
+<!---
 <div style="display: flex; justify-content: center; align-items: center; gap: 60px; margin-bottom: 30px;">
 
   <a href="https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp" target="_blank" rel="noopener noreferrer">

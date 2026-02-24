@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Socio-History of Informatics
-subtitle: A seminar organized by CNAM and UT Compiègne
+subtitle: A seminar organized by CNAM, HT2S
 ---
 
 <!--

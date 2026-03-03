@@ -86,8 +86,17 @@ Location: 2 rue Conté, 75003, Paris - Room 30.-1.28
 
 <details markdown="1">
   <summary markdown="span">
-  March 10 2026, 3PM - 5PM - <strong>Nadja Gaudillière-Jami</strong> - Details to follow
+  March 10 2026, 3PM - 5PM - <strong>Nadja Gaudillière-Jami</strong> - Automating Architecture? Tools and Practices of Digital Design 1960–2025
   </summary>
+
+  - [Nadja Gaudillère-Jami](https://royaldanishacademy.com/en/profile/953) is assistant professor at the Centre for IT and Architecture of the Royal Danish Academy. A specialist of the digital in architecture, she focuses on two main research directions: the industrialisation and environmental impact of architectural robotics and the history and epistemology of the computational field in architecture.
+    
+  > With the digital turn, new design methods and a series of experimental projects emerged in architecture from the 1960s onward, sharing a common reliance on algorithms and programming tools. However, adopting a procedural—or computational (computer-based)—design process requires the development of a set of instructions expressible in a formalized language, a process that may potentially conflict with the tacit knowledge on which architectural practice traditionally relies.
+
+The presented study of computational currents in architecture, centered on the tools employed and their trajectories within networks of actors, highlights the effects of this tension by revealing the coexistence of two approaches to procedural design. The first promotes the standardization and rationalization of architectural practices; the second encourages exploration of the heuristic and artisanal dimension implied by mastering programming techniques.
+
+Location: 2 rue Conté, 75003, Paris - Room 30.-1.23
+
 </details>
 
 <details markdown="1">

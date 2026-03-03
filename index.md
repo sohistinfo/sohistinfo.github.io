@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Socio-Histoire de l'Informatique
-subtitle: Séminaire proposé par le laboratoire HT2S du CNAM
+subtitle: Séminaire proposé par le CNAM et l'UT Compiègne
 ---
 
-<!---
+
 <div style="display: flex; justify-content: center; align-items: center; gap: 60px; margin-bottom: 30px;">
 
   <a href="https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp" target="_blank" rel="noopener noreferrer">
@@ -20,10 +20,10 @@ subtitle: Séminaire proposé par le laboratoire HT2S du CNAM
   </a>
 
 </div>
--->
 
 
-Le **Séminaire de socio-histoire de l'informatique** est un séminaire de recherche organisé par le centre de recherche [HT2S du Conservatoire National des Arts et Métiers](https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp), en partenariat avec l'iniative [iRHIST](https://irhist.sorbonne-universite.fr/en) de l'alliance Sorbonne Université. Tous les deux mois, nous invitons un.e chercheur.se en histoire et/ou anthropologie et sociologie (avec une perspective historique ou diachronique) de l’informatique à présenter ses travaux. Le séminaire a pour objectif d’explorer de nouveaux récits de l’histoire de l’informatique sur le temps long, en mettant l’accent sur la manière dont l’informatique s’entrelace avec les questions sociales, économiques, politiques et culturelles. Vous trouverez ci-dessous une vue plus détaillée de notre approche.
+
+Le **Séminaire de socio-histoire de l'informatique** est un séminaire de recherche organisé par les laboratoires [HT2S du Conservatoire National des Arts et Métiers](https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp) et [COSTECH de l'Université Technique de Compiègne](https://costech.utc.fr/le-costech/), en partenariat avec l'iniative [iRHIST](https://irhist.sorbonne-universite.fr/en) de l'alliance Sorbonne Université. Tous les deux mois, nous invitons un.e chercheur.se en histoire et/ou anthropologie et sociologie (avec une perspective historique ou diachronique) de l’informatique à présenter ses travaux. Le séminaire a pour objectif d’explorer de nouveaux récits de l’histoire de l’informatique sur le temps long, en mettant l’accent sur la manière dont l’informatique s’entrelace avec les questions sociales, économiques, politiques et culturelles. Vous trouverez ci-dessous une vue plus détaillée de notre approche.
 
 # 2025/2026
 
@@ -85,8 +85,13 @@ Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 28
 
 <details markdown="1">
   <summary markdown="span">
-  10 mars 2026 de 15h à 17h - <strong>Nadja Gaudillière-Jami</strong> - Information à venir
+  10 mars 2026 de 15h à 17h - <strong>Nadja Gaudillière-Jami</strong> - Automatiser l’architecture ? Outils et pratiques de la conception numérique 1960-2025
   </summary>
+
+- [Nadja Gaudillère-Jami](https://royaldanishacademy.com/en/profile/953) est professeure assistante au _Center for IT and Architecture_ de l’Académie royale danoise. Spécialiste du numérique en architecture, elle concentre ses recherches sur deux axes principaux : l’industrialisation et l’impact environnemental de la robotique architecturale, ainsi que l’histoire et l’épistémologie du champ computationnel en architecture.
+
+> Avec le tournant numérique apparaissent à partir des années 1960 en architecture de nouvelles méthodes de conception et une série de projets expérimentaux, dont le point commun est le recours à des algorithmes et à des outils de programmation. Or le recours à un processus de conception procédural, ou computationnel (informatisé), nécessite de mettre au point une série d’instructions exprimables en langage formalisé, un processus potentiellement contradictoire avec les connaissances tacites sur lesquelles s’appuie la pratique architecturale. L’étude présentée des courants computationnels en architecture, centrée sur les outils mobilisés et leur trajectoire au sein de réseaux d’acteurs, met en évidence les effets de cette tension en donnant à voir la coexistence de deux approches de la conception procédurale. La première favorise une standardisation et une rationalisation des pratiques architecturales, la seconde l’exploration du versant heuristique, artisanal, qu’implique la maîtrise des techniques de programmation. 
+  
 </details>
 
 <details markdown="1">

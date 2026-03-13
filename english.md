@@ -226,7 +226,7 @@ Finally, this seminar will take care to promote an interdisciplinary opening tow
 # 📧 Organizers and Contact
 
 **The seminar is organized by (in alphabetical order):**
-- Léandre Bécard - Université de technologie de Compiègne, COSTECH
+- <a href="https://costech.utc.fr/membres/becard-leandre/" target="blank">Léandre Bécard</a> - Université de technologie de Compiègne, COSTECH
 - [Mathilde Fichen](mathfichen@github.io) - CNAM, HT2S
 - [Camille Paloque-Bergès](https://technique-societe.cnam.fr/camille-paloque-berges--836902.kjsp#/) - CNAM, HT2S
 - [Adrien Tournier](https://technique-societe.cnam.fr/adrien-tournier--1455493.kjsp#/) - CNAM, HT2S

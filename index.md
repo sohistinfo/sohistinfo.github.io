@@ -23,9 +23,8 @@ subtitle: Séminaire proposé par le CNAM et l'UTC
 
 
 
-Le **Séminaire de socio-histoire de l'informatique** est un iRHiSTséminaire de recherche organisé par les laboratoires <a href="HT2S du Conservatoire National des Arts et Métiers"
-<a href="https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp" target="blank">HT2S du Conservatoire National des Arts et Métiers</a> et <a href="COSTECH de l'Université de Technologie de Compiègne"
-<a href="https://costech.utc.fr/le-costech/" target="blank">COSTECH de l'Université de Technologie de Compiègne</a>, en partenariat avec l'iniative <a href="iRHiST"
+Le **Séminaire de socio-histoire de l'informatique** est un séminaire de recherche organisé par les laboratoires <a href="https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp" target="blank">HT2S du Conservatoire National des Arts et Métiers</a> et
+<a href="https://costech.utc.fr/le-costech/" target="blank">COSTECH de l'Université de Technologie de Compiègne</a>, en partenariat avec l'iniative 
 <a href="https://irhist.sorbonne-universite.fr/en" target="blank">iRHiST</a> de l'alliance Sorbonne Université. Tous les deux mois, nous invitons un.e chercheur.se en histoire et/ou anthropologie et sociologie (avec une perspective historique ou diachronique) de l’informatique à présenter ses travaux. Le séminaire a pour objectif d’explorer de nouveaux récits de l’histoire de l’informatique sur le temps long, en mettant l’accent sur la manière dont l’informatique s’entrelace avec les questions sociales, économiques, politiques et culturelles. Vous trouverez ci-dessous une vue plus détaillée de notre approche.
 
 # 2025/2026

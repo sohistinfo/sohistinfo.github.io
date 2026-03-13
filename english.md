@@ -131,7 +131,7 @@ To do so, I will discuss three key points from a socio-historical perspective on
 
 <details markdown="1">
   <summary markdown="span">
-  Monday 14, 2025 - <strong>Jaroslav Švelch</strong> - Power to the clones: Hardware and software bricolage on the periphery
+  April 14, 2025 - <strong>Jaroslav Švelch</strong> - Power to the clones: Hardware and software bricolage on the periphery
   </summary>
   
 - [Jaroslav Švelch](http://svelch.com/) - Charles University (Czech Republic) 

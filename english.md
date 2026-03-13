@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Socio-History of Informatics
-subtitle: A seminar organized by CNAM and UT Compiègne
+subtitle: A seminar organized by CNAM and UTC
 ---
 
 
@@ -23,7 +23,7 @@ subtitle: A seminar organized by CNAM and UT Compiègne
 
 
 
-The **Socio-History of Informatics Seminar** is a research seminar organized by the [HT2S research center](https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp) of the [Conservatoire National des Arts et Métiers](https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp) (CNAM) and the [COSTECH research center of the université de technologie de Compiègne](https://costech.utc.fr/le-costech/), in partnership with the [iRHIST initative](https://irhist.sorbonne-universite.fr/en) within the Sorbonne Université alliance. Every two months, we invite a researcher in the history and/or anthropology and sociology (with a historical or diachronic approach) of computing and informatics to present their work. The seminar aims to explore new narratives in the history of computing and informatics over time, with an emphasis on they intertwine with social, economic, political and cultural issues.
+The **Socio-History of Informatics Seminar** is a research seminar organized by the [HT2S research center](https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp) of the [Conservatoire National des Arts et Métiers](https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp) (CNAM) and the [COSTECH research center of the université de technologie de Compiègne](https://costech.utc.fr/le-costech/), in partnership with the [iRHiST initative](https://irhist.sorbonne-universite.fr/en) within the Sorbonne Université alliance. Every two months, we invite a researcher in the history and/or anthropology and sociology (with a historical or diachronic approach) of computing and informatics to present their work. The seminar aims to explore new narratives in the history of computing and informatics over time, with an emphasis on they intertwine with social, economic, political and cultural issues.
 
 Below is a more detailed view of our approach.
 

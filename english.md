@@ -75,7 +75,7 @@ Location: 2 rue Conté, 75003, Paris - Room 30.-1.24
   February 16 2026, 3PM - 5PM - <strong>Christophe Lécuyer</strong> - Why was Silicon Valley not unionized?
   </summary>
 
-- <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P917" target="blank">Christophe Lécuyer</a>is a researcher and professor of the history of science and technology at Pierre and Marie Curie University, affiliated with the LIP6 laboratory. His research focuses on the history of innovation, the history of computing, the history of high technologies, and the relationship between computing and the environment.
+- <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P917" target="blank">Christophe Lécuyer</a> is a researcher and professor of the history of science and technology at Pierre and Marie Curie University, affiliated with the LIP6 laboratory. His research focuses on the history of innovation, the history of computing, the history of high technologies, and the relationship between computing and the environment.
 
 > The presence of labor unions in Silicon Valley, the largest center of innovation in digital technologies, is currently minimal. But this was not always the case. From the early 1960s to the early 1980s, many unions such as the IAM, IUE, IBEW, and the Teamsters attempted to unionize companies in the region. The United Electrical Workers, a left-wing union, and Maoist groups also focused on factories producing semiconductors and video game cartridges.In the late 1970s, in collaboration with the Santa Clara Center for Occupational Safety and Health (SCCOSH), the Communist Party orchestrated a unionization campaign denouncing chemical hazards in electronics factories. Management in the computer and microelectronics companies thwarted these unionization efforts by violating federal rules governing union activity, matching the wages and benefits of unionized firms, and improving factory safety. Following these repeated defeats, and amid a severe crisis affecting unions in the United States beginning in the early 1980s, unions abandoned all efforts to organize Silicon Valley. With the exception of brief attempts in the early 1990s, they would remain disengaged for the next four decades.
 
@@ -116,8 +116,8 @@ Location: 2 rue Conté, 75003, Paris - Room 30.-1.23
   June 16, 2025 - <strong>Cédric Neumann</strong> - Socio-history of the managerial construction of IT in France
   </summary>
   
-- [Kevin Driscoll](https://kevindriscoll.info/) - Associate Professor, Department of Media Studies, University of Virginia- [Cédric Neumann](https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp) - CNAM, HT2S (France)
-- Discussant: [Pierre Labardin](https://iae.univ-larochelle.fr/liae-la-rochelle/organisation/) - La Rochelle University (France)
+- <a href="https://kevindriscoll.info/" target="blank">Kevin Driscoll</a> - Associate Professor, Department of Media Studies, University of Virginia- <a href="https://technique-societe.cnam.fr/neumann-cedric-1143977.kjsp" target="blank">Cédric Neumann</a> - CNAM, HT2S (France)
+- Discussant: <a href="https://iae.univ-larochelle.fr/liae-la-rochelle/organisation/" target="blank">Pierre Labardin</a> - La Rochelle University (France)
   
 > Socio-history has been defined by G. Noiriel as the use of conceptual tools from sociology in historical investigations to denaturalize power relations by tracing their genesis and hidden origins. The current omnipresence of digital tools and how it can affect power relations—whether between the state and corporations or among employees through the redefinition of work, for example—has rarely been the subject of socio-historical analysis in the strict sense. Indeed, French social science research has paid little attention to the transition from mechanography to computing. This neglect of what is retrospectively called "heavy" computing has, in turn, led to a reduced focus on the managerial uses of computing that developed in the 1960s.
 
@@ -134,8 +134,8 @@ To do so, I will discuss three key points from a socio-historical perspective on
   April 14, 2025 - <strong>Jaroslav Švelch</strong> - Power to the clones: Hardware and software bricolage on the periphery
   </summary>
   
-- [Jaroslav Švelch](http://svelch.com/) - Charles University (Czech Republic) 
-- Discussant : [Kévin Limonier](https://www.geopolitique.net/our_team/kevin-limonier/) - Paris-8 University & Institut Français de Géopolitique (France)
+- <a href="http://svelch.com/" target="blank">Jaroslav Švelch</a> - Charles University (Czech Republic) 
+- Discussant : <a href="https://www.geopolitique.net/our_team/kevin-limonier/" target="blank">Kévin Limonier</a> - Paris-8 University & Institut Français de Géopolitique (France)
 
 > This talk will address the specifics of computing practices (both amateur and professional) in peripheral contexts. Its aim is to lift “clones”, “ports” and other “bastard” hardware and software artifacts from relative obscurity and derision up to the focus of the history of computing. I will approach the topic revisiting the classic concept of bricoleur, introduced by Lévi-Strauss as a counterpoint to engineer. Bricoleur makes do with the resources that are at hand, and that is one of the reasons why hobby computing and homebrew programming have played such important roles in peripheral contexts with limited access to resources and components, such as in the 1980s Soviet bloc. The chapter will use examples from 1980s Czechoslovakia, specifically the local efforts to design and build first mainframes and then microcomputers without using any unavailable Western-manufactured components, or the clones and conversions of Western games for domestic or domestically available hardware. I will argue that clones required considerable ingenuity and effort to make, and that they have made important contributions to the proliferation of computer technology and literacy in regions like Eastern Europe. The talk is based on Švelch’s chapter from the book Abstractions and Embodiments: New Histories of Computing and Society, edited by Janet Abbate and Stephanie Dick.
 </details>
@@ -146,10 +146,10 @@ To do so, I will discuss three key points from a socio-historical perspective on
   April 1, 2025 - <strong>Marie-José Durand-Richard</strong> - From the Pascaline to the Computer: Contribution to a Contextualized Approach to the Mechanization of Calculation
   </summary>
   
-- [Marie-José Durand-Richard](http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr) - Paris 8 Vincennes Saint-Denis, SPHERE
-- Discutant : [Loïc Petitgirard](https://technique-societe.cnam.fr/petitgirard-loic-630656.kjsp) - CNAM,HT2S
+- <a href="http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr" target="blank">Marie-José Durand-Richard</a> - Paris 8 Vincennes Saint-Denis, SPHERE
+- Discussant : <a href="https://technique-societe.cnam.fr/petitgirard-loic-630656.kjsp" target="blank">Loïc Petitgirard</a> - CNAM,HT2S
 
-Session co-organized with the _[History of Computing Seminar at the Musée des Arts et Métiers]_(https://museeinfo.cnam.fr/seminaires/). 
+Session co-organized with the _<a href="https://museeinfo.cnam.fr/seminaires/" target="blank">History of Computing Seminar at the Musée des Arts et Métiers</a>_. 
 
   > Numerous instruments and machines, often developed on the fringes of the academic world, have marked the mechanization of calculation up to the computer. Both their design and manufacturing involved many other actors besides mathematicians alone: artisans, engineers, and physicists. Moreover, these collective research efforts had to generate sufficient socio-political interest to secure funding. The transfers and syntheses of knowledge required for this materialization of calculation go hand in hand with a growing complexity in the professional relationships among these different categories of actors. I propose to analyze this evolution through certain significant examples – including Blaise Pascal’s machine (1623-1662), Charles Babbage’s analytical engine (1791-1871), Vannevar Bush’s differential analyzer (1890-1974), and the first computer prototypes.
 

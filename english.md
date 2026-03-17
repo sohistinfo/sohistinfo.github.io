@@ -197,10 +197,10 @@ Examining expectations of educational technologies helps to uncover some of the 
 
 # Practical Information and Registration
 
-To attend the seminar, please **[register here](https://framaforms.org/inscription-seminaire-de-socio-histoire-de-linformatique-1757664332)**.
+To attend the seminar, please **<a href="https://framaforms.org/inscription-seminaire-de-socio-histoire-de-linformatique-1757664332" target="blank">register here</a>**.
 
 The seminar will be held in hybrid at the Conservatoire National des Arts et Métiers, at **2 rue Conté, 75003 Paris**. The room of the seminar is indicated in each session description (see above). 
-The connexion link is the following: https://webinaire.numerique.gouv.fr/meeting/signin/invite/39842/creator/3607/hash/a9114b91f2a5562ebf0d01309efd02715ea1f9e0
+The connexion link is the following: <a href="https://webinaire.numerique.gouv.fr/meeting/signin/invite/39842/creator/3607/hash/a9114b91f2a5562ebf0d01309efd02715ea1f9e0" target="blank">https://webinaire.numerique.gouv.fr/meeting/signin/invite/39842/creator/3607/hash/a9114b91f2a5562ebf0d01309efd02715ea1f9e0</a>
 
 
 # Our approach

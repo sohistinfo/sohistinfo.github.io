@@ -161,8 +161,7 @@ Examining expectations of educational technologies helps to uncover some of the 
 - <a href="http://www.sphere.univ-paris-diderot.fr/spip.php?article90&lang=fr" target="blank">Marie-José Durand-Richard</a> - Paris 8 Vincennes Saint-Denis, SPHERE
 - Discutant : <a href="https://technique-societe.cnam.fr/petitgirard-loic-630656.kjsp" target="blank">Loïc Petitgirard</a> - CNAM,HT2S
 
-Séance co-organisée avec le <a href="Séminaire d'Histoire d'Informatique du Musée des Arts et Métiers"
-<a href="https://museeinfo.cnam.fr/seminaires/" target="blank">Séminaire d'Histoire d'Informatique du Musée des Arts et Métiers</a>. 
+Séance co-organisée avec le *<a href="https://museeinfo.cnam.fr/seminaires/" target="blank">Séminaire d'Histoire d'Informatique du Musée des Arts et Métiers</a>*. 
 
   > De nombreux instruments et machines, souvent élaborés en marge du milieu académique, ont jalonné la mécanisation du calcul jusqu'à l'ordinateur. Aussi bien leur conception que leur fabrication ont mobilisé bien d'autres acteurs que les seuls mathématiciens : artisans, ingénieurs, physiciens. Et ces recherches collectives ont dû susciter un intérêt socio-politique suffisant pour décider de leur financement. Les transferts et synthèses de savoirs que suppose cette matérialisation du calcul va de pair avec une complexification des rapports professionnels entre ces différentes catégories d'acteurs. Je me propose d'en analyser l'évolution à partir de certains exemples significatifs – dont la machine de Blaise Pascal (1623-1662), la machine analytique de Charles Babbage (1791-1871), l'analyseur différentiel de Vannevar Bush (1890-1974), et les premiers prototypes d'ordinateur.
 </details>

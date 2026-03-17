@@ -12,7 +12,7 @@ subtitle: A seminar organized by CNAM and UTC
   </a>
 
   <a href="https://costech.utc.fr/le-costech/" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/UTC_Logo.png" alt="COSTECH – Université de Technologie de Compiègne (UTC)" style="height:50px;">
+    <img src="/assets/img/UTC_Logo.png" alt="Costech – Université de Technologie de Compiègne (UTC)" style="height:50px;">
   </a>
 
   <a href="https://irhist.sorbonne-universite.fr/en" target="_blank" rel="noopener noreferrer">
@@ -23,7 +23,7 @@ subtitle: A seminar organized by CNAM and UTC
 
 
 
-The **Socio-History of Informatics Seminar** is a research seminar organized by the <a href="https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp" target="blank">HT2S research center</a> of the <a href="https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp" target="blank">Conservatoire National des Arts et Métiers</a> (CNAM) and the <a href="https://costech.utc.fr/le-costech/" target="blank">COSTECH research center of the université de technologie de Compiègne</a>, in partnership with the <a href="https://irhist.sorbonne-universite.fr/en" target="blank">iRHiST initative</a> within the Sorbonne Université alliance. Every two months, we invite a researcher in the history and/or anthropology and sociology (with a historical or diachronic approach) of computing and informatics to present their work. The seminar aims to explore new narratives in the history of computing and informatics over time, with an emphasis on they intertwine with social, economic, political and cultural issues.
+The **Socio-History of Informatics Seminar** is a research seminar organized by the <a href="https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp" target="blank">HT2S research center</a> of the <a href="https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp" target="blank">Conservatoire National des Arts et Métiers</a> (CNAM) and the <a href="https://costech.utc.fr/le-costech/" target="blank">Costech research center of the université de technologie de Compiègne</a>, in partnership with the <a href="https://irhist.sorbonne-universite.fr/en" target="blank">iRHiST initative</a> within the Sorbonne Université alliance. Every two months, we invite a researcher in the history and/or anthropology and sociology (with a historical or diachronic approach) of computing and informatics to present their work. The seminar aims to explore new narratives in the history of computing and informatics over time, with an emphasis on they intertwine with social, economic, political and cultural issues.
 
 Below is a more detailed view of our approach.
 
@@ -36,7 +36,7 @@ Below is a more detailed view of our approach.
   December 15, 2025, 3 PM - 5 PM – <strong>Guillaume Carnino</strong> – Digital Technology and Automation: Industrialization, Grammatization, and Proletarianization of Work
   </summary>
   
-- <a href="https://costech.utc.fr/membres/carnino-guillaume/" target="blank">Guillaume Carnino</a> is an associate professor in the history of science and technology at the University of Technology of Compiègne (COSTECH) and a research fellow at the Centre Alexandre-Koyré. A specialist in the 19th century, he focuses on the epistemological and industrial foundations of technology; more broadly, as a contemporary historian, he studies the history of industrial quantification and computing, particularly that of data centers.
+- <a href="https://costech.utc.fr/membres/carnino-guillaume/" target="blank">Guillaume Carnino</a> is an associate professor in the history of science and technology at the University of Technology of Compiègne (Costech) and a research fellow at the Centre Alexandre-Koyré. A specialist in the 19th century, he focuses on the epistemological and industrial foundations of technology; more broadly, as a contemporary historian, he studies the history of industrial quantification and computing, particularly that of data centers.
 
 > The recent wave of public deployment of generative artificial intelligences (GAIs) has revived the specter of a complete automation of certain activities, sometimes suggesting that human beings might be "replaced by machines." In reality—drawing on historiography and ethnography—the talk will show that digitalization, of which GAIs are merely the latest expression, continues the long process of industrialization. This process has never eliminated human labor but has continuously dissected, reorganized, and recomposed it—at the cost of losing control over technological systems that paradoxically aim to increase productivity.
 
@@ -226,7 +226,7 @@ Finally, this seminar will take care to promote an interdisciplinary opening tow
 # 📧 Organizers and Contact
 
 **The seminar is organized by (in alphabetical order):**
-- <a href="https://costech.utc.fr/membres/becard-leandre/" target="blank">Léandre Bécard</a> - Université de technologie de Compiègne, COSTECH
+- <a href="https://costech.utc.fr/membres/becard-leandre/" target="blank">Léandre Bécard</a> - Université de technologie de Compiègne, Costech
 - <a href="https://mathfichen.github.io/" target="blank">Mathilde Fichen</a> - CNAM, HT2S
 - <a href="https://technique-societe.cnam.fr/camille-paloque-berges--836902.kjsp#/" target="blank">Camille Paloque-Bergès</a> - CNAM, HT2S
 - <a href="https://technique-societe.cnam.fr/adrien-tournier--1455493.kjsp#/" target="blank">Adrien Tournier</a> - CNAM, HT2S

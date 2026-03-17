@@ -12,7 +12,7 @@ subtitle: Séminaire proposé par le CNAM et l'UTC
   </a>
 
   <a href="https://costech.utc.fr/le-costech/" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/UTC_Logo.png" alt="COSTECH – Université de Technologie de Compiègne (UTC)" style="height:50px;">
+    <img src="/assets/img/UTC_Logo.png" alt="Costech – Université de Technologie de Compiègne (UTC)" style="height:50px;">
   </a>
 
   <a href="https://irhist.sorbonne-universite.fr/en" target="_blank" rel="noopener noreferrer">
@@ -24,7 +24,7 @@ subtitle: Séminaire proposé par le CNAM et l'UTC
 
 
 Le **Séminaire de socio-histoire de l'informatique** est un séminaire de recherche organisé par les laboratoires <a href="https://technique-societe.cnam.fr/histoire-des-technosciences-en-societe-ht2s--913760.kjsp" target="blank">HT2S du Conservatoire National des Arts et Métiers</a> et
-<a href="https://costech.utc.fr/le-costech/" target="blank">COSTECH de l'Université de Technologie de Compiègne</a>, en partenariat avec l'iniative 
+<a href="https://costech.utc.fr/le-costech/" target="blank">Costech de l'Université de Technologie de Compiègne</a>, en partenariat avec l'iniative 
 <a href="https://irhist.sorbonne-universite.fr/en" target="blank">iRHiST</a> de l'alliance Sorbonne Université. Tous les deux mois, nous invitons un.e chercheur.se en histoire et/ou anthropologie et sociologie (avec une perspective historique ou diachronique) de l’informatique à présenter ses travaux. Le séminaire a pour objectif d’explorer de nouveaux récits de l’histoire de l’informatique sur le temps long, en mettant l’accent sur la manière dont l’informatique s’entrelace avec les questions sociales, économiques, politiques et culturelles. Vous trouverez ci-dessous une vue plus détaillée de notre approche.
 
 # 2025/2026
@@ -62,7 +62,7 @@ Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 24
   15 décembre 2025 de 15h à 17h - <strong>Guillaume Carnino</strong> - Numérique et automatisation : industrialisation, grammatisation et prolétarisation du travail
   </summary>
   
-- <a href="https://costech.utc.fr/membres/carnino-guillaume/" target="blank">Guillaume Carnino</a> est maître de conférences en histoire des sciences et techniques à l'Université de Technologie de Compiègne (COSTECH) et chercheur associé au Centre Alexandre-Koyré. Dix-neuviémiste, il s’intéresse aux fondements épistémologiques et industriels de la technologie ; plus largement contemporanéiste, il travaille sur l’histoire de la quantification industrielle et de l’informatique, notamment des datacenters.
+- <a href="https://costech.utc.fr/membres/carnino-guillaume/" target="blank">Guillaume Carnino</a> est maître de conférences en histoire des sciences et techniques à l'Université de Technologie de Compiègne (Costech) et chercheur associé au Centre Alexandre-Koyré. Dix-neuviémiste, il s’intéresse aux fondements épistémologiques et industriels de la technologie ; plus largement contemporanéiste, il travaille sur l’histoire de la quantification industrielle et de l’informatique, notamment des datacenters.
 
 > La récente vague de déploiement grand public des intelligences artificielles génératives (IAg) a fait ressurgir le spectre d'une automatisation intégrale de certaines activités, au point de laisser parfois entendre que l'être humain risquerait d'être « remplacé par les machines ». En réalité, historiographie et ethnographie à l'appui, il s'agira de montrer que la numérisation, dont les IAg sont le dernier avatar, est une poursuite du processus d'industrialisation, qui n'a jamais fait disparaître le travail humain, mais n'a cessé de le disséquer, de le réorganiser et de le recomposer, au prix d'une perte de maîtrise de ces dispositifs technologiques visant paradoxalement l'accroissement de la productivité.
 
@@ -230,7 +230,7 @@ Pour finir, ce séminaire prendra soin de favoriser une ouverture interdisciplin
 # Organisateurs et contact
 
 **Le séminaire est organisé par (ordre alphabétique) :**
-- <a href="https://costech.utc.fr/membres/becard-leandre/" target="blank">Léandre Bécard</a> - Université de technologie de Compiègne, COSTECH
+- <a href="https://costech.utc.fr/membres/becard-leandre/" target="blank">Léandre Bécard</a> - Université de technologie de Compiègne, Costech
 - <a href="https://mathfichen.github.io/" target="blank">Mathilde Fichen</a> - CNAM, HT2S
 - <a href="https://technique-societe.cnam.fr/camille-paloque-berges--836902.kjsp#/" target="blank">Camille Paloque-Bergès</a> - CNAM, HT2S
 - <a href="https://technique-societe.cnam.fr/adrien-tournier--1455493.kjsp#/" target="blank">Adrien Tournier</a> - CNAM, HT2S

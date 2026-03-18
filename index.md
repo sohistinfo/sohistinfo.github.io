@@ -209,7 +209,7 @@ Séance co-organisée avec le *<a href="https://museeinfo.cnam.fr/seminaires/" t
 
 Pour assister au séminaire, veuillez vous **<a href="https://framaforms.org/inscription-seminaire-de-socio-histoire-de-linformatique-1757664332" target="blank">inscrire ici</a>**. 
 
-Le seminaire se tiendra en hybride au Conservatoire National des Arts et Métiers, au **2 rue Conté, 75003 Paris**. La salle est indiquée dans le desicrptif de chaque séance (voir ci-dessus). 
+Le seminaire se tiendra en hybride au Conservatoire National des Arts et Métiers, au **2 rue Conté, 75003 Paris**. La salle est indiquée dans le descriptif de chaque séance (voir ci-dessus). 
 Le lien de connexion est le suivant : <a href="https://webinaire.numerique.gouv.fr/meeting/signin/invite/39842/creator/3607/hash/a9114b91f2a5562ebf0d01309efd02715ea1f9e0" target="blank">https://webinaire.numerique.gouv.fr/meeting/signin/invite/39842/creator/3607/hash/a9114b91f2a5562ebf0d01309efd02715ea1f9e0</a>. 
 
 

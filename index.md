@@ -3,7 +3,7 @@ layout: home
 title: Socio-Histoire de l'Informatique
 subtitle: Séminaire proposé par le CNAM et l'UTC
 ---
-
+<!--Il y a 5 présentation en anglais, à traduire éventuellement-->
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 60px; margin-bottom: 30px;">
 

@@ -99,8 +99,15 @@ Location: 2 rue Conté, 75003, Paris - Room 30.-1.23
 
 <details markdown="1">
   <summary markdown="span">
-  April 13 2026, 3PM - 5PM - <strong>Anna Katharina Osterlow</strong> - Details to follow
+  April 13 2026, 3PM - 5PM - <strong>Anna Katharina Osterlow</strong> - Training “The African vanguard of the computer age”: early computing and visions of modernity and independence in Senegal and Nigeria, 1963-1984
   </summary>
+
+  - <a href="https://www.sciencespo.fr/histoire/en/directory/osterlow-anna/" target="blank">Anna Katharina Osterlow</a> is a PhD candidate at the <a href="https://www.sciencespo.fr/histoire/en/" target="blank">Centre for history (CHSP)</a> and the <a href="https://www.sciencespo.fr/ceri/en/" target="blank">Center for International Studies (CERI)</a> in <a href="https://www.sciencespo.fr/en/" target="blank">SciencePo, Paris</a>. Her dissertation in the history of computing focuses on two transnational projects in Nigeria and Senegal, from the 1960s to the late 1980s. Her research aims to trace how computing knowledge and technology was spread through transnational exchanges and circulations of people, ideas and technological artefacts. In doing so, she examines Western biases in these projects and the unique characteristics of the history of computing in Africa.
+
+  > In March 1982, an ambitious, transnational group of teachers, scientists, and computer experts from Senegal, France, and the United States launched the project “Computers in education” at the Ecole Normale Supérieure in Dakar, Senegal, to explore the usage of micro-computers in teaching and learning. The exchanges within the transnational network of experts around this project raised questions about the “Westernness” of technology, the appropriate ways to spread computing knowledge adapted to Senegalese culture, and the conditions of exporting computer hardware from the Global North to the Global South. Similar questions were raised in a much earlier computer project in 1964 in Nigeria, where International Business Machines (IBM) established the “African Education Centre”, in cooperation with the University of Ibadan, to train students from different African countries on an IBM punch card computer. While evoking similar questions on modernity and computing, this project brought forward Nigerian aspirations of linking computing with the efforts of nation-building and decolonisation, and it was announced as a symbol for the path that the African continent would take. Considering the changing practices of computing over the years, my research investigates the entanglements between French and US American state and private actors with African academics, functionaries, teachers, and computer scientists, from the 1960s to the late 1980s, in their ambitions to spread computing. Thereby, my research intends to shed light on the “silence” surrounding African computing history and its embeddedness in the global dynamics of decolonisation and the Cold War. My research is based on archival materials from archives in France, Senegal, Nigeria, and the US.
+
+  Location: UTC-Paris, 62 boulevard Sébastopol – 75003 Paris (Salle Danielle Quarante \[IMI/IMI-QUARAN])
+  
 </details>
 
 <details markdown="1">

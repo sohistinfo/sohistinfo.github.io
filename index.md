@@ -101,8 +101,13 @@ Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 23
 
 <details markdown="1">
   <summary markdown="span">
-  13 avril 2026 de 15h à 17h - <strong>Anna Katharina Osterlow</strong> - Information à venir
+  13 avril 2026 de 15h à 17h - <strong>Anna Katharina Osterlow</strong> - Training “The African vanguard of the computer age”: early computing and visions of modernity and independence in Senegal and Nigeria, 1963-1984
   </summary>
+
+  -
+
+  >
+
 </details>
 
 <details markdown="1">

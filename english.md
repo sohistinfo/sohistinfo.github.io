@@ -112,8 +112,13 @@ Location: 2 rue Conté, 75003, Paris - Room 30.-1.23
 
 <details markdown="1">
   <summary markdown="span">
-  June 15 2026, 3PM - 5PM - <strong>Amelie Mittlmeier</strong> - Details to follow
+  June 15 2026, 3PM - 5PM - <strong>Amelie Mittlmeier</strong> - Programming languages and Communities of Programming
   </summary>
+
+  > The emergence of so-called high-level programming languages at the end of the 1950s not only marked a technological shift from earlier automatic coding systems but also gave rise to distinct communities of computing. Languages such as FORTRAN and ALGOL were not merely technical tools; they became focal points around which practitioners organized themselves, forming user groups and professional identities. In this sense, programming languages did not simply serve pre-existing communities – they actively contributed to their formation. As these communities developed, so too did debates about the relative merits of different programming languages. However, these discussions were marked by the absence of clearly defined and widely accepted criteria for evaluating programming languages. They reflected deeper disagreements about the nature of programming itself – whether it should be understood as a scientific discipline, an engineering practice, or even an artistic endeavor. This lecture asks why the question of the “best” programming language became such a relevant and persistent concern among experts - and why it lost its relevance at the end of the 1960s. It examines the debates between different language communities and analyzes how these controversies shaped both technological development and the emerging research field of programming. By situating these discussions in their historical context, the talk highlights how competition and disagreement contributed to deepening experts’ understanding of programming and thus to the formation of the field.
+
+Location: 2 rue Conté, 75003, Paris - ?
+  
 </details>
 
 # 2024/2025

@@ -12,7 +12,7 @@ subtitle: A seminar organized by CNAM and UTC
   </a>
 
   <a href="https://costech.utc.fr/le-costech/" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/UTC_Logo.png" alt="Costech – Université de Technologie de Compiègne (UTC)" style="height:50px;">
+    <img src="/assets/img/logo_costech.jpg" alt="Costech – Université de Technologie de Compiègne (UTC)" style="height:50px;">
   </a>
 
   <a href="https://irhist.sorbonne-universite.fr/en" target="_blank" rel="noopener noreferrer">

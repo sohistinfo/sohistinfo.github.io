@@ -114,7 +114,7 @@ Localisation : 2 rue Conté, 75003, Paris - Salle 30 -1 23
 
 <details markdown="1">
   <summary markdown="span">
-  15 juin 2026 de 15h à 17h - <strong>Amelie Mittlmeier</strong> - Information à venir
+  15 juin 2026 de 15h à 17h - <strong>Amelie Mittlmeier</strong> - Programming languages and Communities of Programming
   </summary>
   
   - <a href="https://www.gn.geschichte.uni-muenchen.de/personen/mitarbeiter_wg/amelie-mittelmeier/index.html" target="blank">Amelie Mittlemeier</a> est doctorante au département d'histoire des sciences de la <a href="https://www.lmu.de/de/index.html" target="blank">Ludwig-Maximilian Universität</a> de Munich. **(Présentation donnée en anglais)**
